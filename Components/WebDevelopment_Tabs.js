@@ -592,7 +592,7 @@ export default function WebDevelopment_Tabs(){
       <div className="col-lg-4 col-md-6">
         <div className="build-item">
           <a href="case-details.html">
-            <img src="https://themeforest.img.customer.envatousercontent.com/files/395031356/preview/01_preview.jpg?auto=compress%2Cformat&fit=crop&crop=top&w=590&h=300&s=8b0b16111c5b6163ed058d3cdcef7f93" alt="Images" />
+            <img src="https://themeforest.img.customer.envatousercontent.com/files/327657922/01_preview.jpg?auto=compress%2Cformat&fit=crop&crop=top&w=590&h=300&s=b950330c2a65fbf3e2d820e3c2f3ce69" alt="Images" />
           </a>
           <div className="content shadow bg-light">
             <h3>
@@ -616,7 +616,7 @@ export default function WebDevelopment_Tabs(){
       <div className="col-lg-4 col-md-6">
         <div className="build-item">
           <a href="case-details.html">
-            <img src="https://themeforest.img.customer.envatousercontent.com/files/385383074/bb.jpg?auto=compress%2Cformat&fit=crop&crop=top&w=590&h=300&s=b1d3e6255e6ce5cfc86416c274029aea" alt="Images" />
+            <img src="https://themeforest.img.customer.envatousercontent.com/files/256961911/01_preview.png?auto=compress%2Cformat&fit=crop&crop=top&w=590&h=300&s=9f899922aae462b787f18d5aa94c1d0b" alt="Images" />
           </a>
           <div className="content shadow bg-light">
             <h3>
@@ -640,7 +640,7 @@ export default function WebDevelopment_Tabs(){
       <div className="col-lg-4 col-md-6">
         <div className="build-item">
           <a href="case-details.html">
-            <img src="https://themeforest.img.customer.envatousercontent.com/files/333584495/01_preview.png?auto=compress%2Cformat&fit=crop&crop=top&w=590&h=300&s=750e7bfb37331fddaf6ee543920b7d58" alt="Images" />
+            <img src="https://themeforest.img.customer.envatousercontent.com/files/180656804/preview.png?auto=compress%2Cformat&fit=crop&crop=top&w=590&h=300&s=cebd5b0411b8e93026a13d940612558f" alt="Images" />
           </a>
           <div className="content shadow bg-light">
             <h3>
@@ -664,7 +664,7 @@ export default function WebDevelopment_Tabs(){
       <div className="col-lg-4 col-md-6 offset-lg-0 offset-md-3">
         <div className="build-item">
           <a href="case-details.html">
-            <img src="https://themeforest.img.customer.envatousercontent.com/files/358810151/00_preview.jpg?auto=compress%2Cformat&fit=crop&crop=top&w=590&h=300&s=abe6a0e0f40df06a4a339f2b7ed991fa" alt="Images" />
+            <img src="https://themeforest.img.customer.envatousercontent.com/files/370790662/01_preview.png?auto=compress%2Cformat&fit=crop&crop=top&w=590&h=300&s=d2029cfdf0b0032dc860457303077414" alt="Images" />
           </a>
           <div className="content shadow bg-light">
             <h3>
@@ -688,7 +688,7 @@ export default function WebDevelopment_Tabs(){
       <div className="col-lg-4 col-md-6">
         <div className="build-item">
           <a href="case-details.html">
-            <img src="https://themeforest.img.customer.envatousercontent.com/files/350304229/Maan-Soft-Up.png?auto=compress%2Cformat&fit=crop&crop=top&w=590&h=300&s=5ec2c4ae4242d39aed889c1412104460" alt="Images" />
+            <img src="https://themeforest.img.customer.envatousercontent.com/files/397109918/01_preview.jpg?auto=compress%2Cformat&fit=crop&crop=top&w=590&h=300&s=9f6eafd6fbfbaeb364b4bff66da46710" alt="Images" />
           </a>
           <div className="content shadow bg-light">
             <h3>
@@ -736,7 +736,7 @@ export default function WebDevelopment_Tabs(){
       <div className="col-lg-4 col-md-6">
         <div className="build-item">
           <a href="case-details.html">
-            <img src="https://themeforest.img.customer.envatousercontent.com/files/378166127/01_preview.png?auto=compress%2Cformat&fit=crop&crop=top&w=590&h=300&s=76af8890d53c2f74ebdfb6da443e3bbd" alt="Images" />
+            <img src="https://themeforest.img.customer.envatousercontent.com/files/368466636/01_Exponent.png?auto=compress%2Cformat&fit=crop&crop=top&w=590&h=300&s=cc53025a915841218936b529c50e4c4f" alt="Images" />
           </a>
           <div className="content shadow bg-light">
             <h3>
@@ -760,7 +760,7 @@ export default function WebDevelopment_Tabs(){
       <div className="col-lg-4 col-md-6">
         <div className="build-item">
           <a href="case-details.html">
-            <img src="https://themeforest.img.customer.envatousercontent.com/files/385383074/bb.jpg?auto=compress%2Cformat&fit=crop&crop=top&w=590&h=300&s=b1d3e6255e6ce5cfc86416c274029aea" alt="Images" />
+            <img src="https://themeforest.img.customer.envatousercontent.com/files/304076200/01_healthflex-preview.png?auto=compress%2Cformat&fit=crop&crop=top&w=590&h=300&s=a66521ae8ecfea5f62366929b061d57e" alt="Images" />
           </a>
           <div className="content shadow bg-light">
             <h3>
@@ -784,7 +784,7 @@ export default function WebDevelopment_Tabs(){
       <div className="col-lg-4 col-md-6">
         <div className="build-item">
           <a href="case-details.html">
-            <img src="https://themeforest.img.customer.envatousercontent.com/files/333584495/01_preview.png?auto=compress%2Cformat&fit=crop&crop=top&w=590&h=300&s=750e7bfb37331fddaf6ee543920b7d58" alt="Images" />
+            <img src="https://themeforest.img.customer.envatousercontent.com/files/336675335/Preview-WP.jpg?auto=compress%2Cformat&fit=crop&crop=top&w=590&h=300&s=5d7e832a9d291d721228f5cae9dcd779" alt="Images" />
           </a>
           <div className="content shadow bg-light">
             <h3>
@@ -808,7 +808,7 @@ export default function WebDevelopment_Tabs(){
       <div className="col-lg-4 col-md-6 offset-lg-0 offset-md-3">
         <div className="build-item">
           <a href="case-details.html">
-            <img src="https://themeforest.img.customer.envatousercontent.com/files/358810151/00_preview.jpg?auto=compress%2Cformat&fit=crop&crop=top&w=590&h=300&s=abe6a0e0f40df06a4a339f2b7ed991fa" alt="Images" />
+            <img src="https://themeforest.img.customer.envatousercontent.com/files/247825235/banner.png?auto=compress%2Cformat&fit=crop&crop=top&w=590&h=300&s=06539c334e50272eef1c6cc67c7cb980" alt="Images" />
           </a>
           <div className="content shadow bg-light">
             <h3>
@@ -832,7 +832,7 @@ export default function WebDevelopment_Tabs(){
       <div className="col-lg-4 col-md-6">
         <div className="build-item">
           <a href="case-details.html">
-            <img src="https://themeforest.img.customer.envatousercontent.com/files/350304229/Maan-Soft-Up.png?auto=compress%2Cformat&fit=crop&crop=top&w=590&h=300&s=5ec2c4ae4242d39aed889c1412104460" alt="Images" />
+            <img src="https://themeforest.img.customer.envatousercontent.com/files/289242522/001_preview.png?auto=compress%2Cformat&fit=crop&crop=top&w=590&h=300&s=5f440521487277de4ef2e7bdd768a2ad" alt="Images" />
           </a>
           <div className="content shadow bg-light">
             <h3>
@@ -880,7 +880,7 @@ export default function WebDevelopment_Tabs(){
       <div className="col-lg-4 col-md-6">
         <div className="build-item">
           <a href="case-details.html">
-            <img src="https://themeforest.img.customer.envatousercontent.com/files/378166127/01_preview.png?auto=compress%2Cformat&fit=crop&crop=top&w=590&h=300&s=76af8890d53c2f74ebdfb6da443e3bbd" alt="Images" />
+            <img src="https://themeforest.img.customer.envatousercontent.com/files/387399417/preview.jpg?auto=compress%2Cformat&fit=crop&crop=top&w=590&h=300&s=62ec964d48035a11fe4762605d787886" alt="Images" />
           </a>
           <div className="content shadow bg-light">
             <h3>
@@ -916,7 +916,7 @@ export default function WebDevelopment_Tabs(){
       <div className="col-lg-4 col-md-6">
         <div className="build-item">
           <a href="case-details.html">
-            <img src="https://themeforest.img.customer.envatousercontent.com/files/383685933/01_preview.png?auto=compress%2Cformat&fit=crop&crop=top&w=590&h=300&s=ebb677d51751bdf45a3ca3ec49c13135" alt="Images" />
+            <img src="https://themeforest.img.customer.envatousercontent.com/files/376816385/preview.jpg?auto=compress%2Cformat&fit=crop&crop=top&w=590&h=300&s=298db52a0f79f3c8ed07108902e10bd6" alt="Images" />
           </a>
           <div className="content shadow bg-light">
             <h3>
@@ -940,7 +940,7 @@ export default function WebDevelopment_Tabs(){
       <div className="col-lg-4 col-md-6">
         <div className="build-item">
           <a href="case-details.html">
-            <img src="https://themeforest.img.customer.envatousercontent.com/files/396174369/01_Preview.png?auto=compress%2Cformat&fit=crop&crop=top&w=590&h=300&s=1df1784e472d10d7c74767eb082f9078" alt="Images" />
+            <img src="https://themeforest.img.customer.envatousercontent.com/files/346869337/00_Preview.jpg?auto=compress%2Cformat&fit=crop&crop=top&w=590&h=300&s=6e51a8f979d409eb6c07eaba927c81fe" alt="Images" />
           </a>
           <div className="content shadow bg-light">
             <h3>
@@ -964,7 +964,7 @@ export default function WebDevelopment_Tabs(){
       <div className="col-lg-4 col-md-6 offset-lg-0 offset-md-3">
         <div className="build-item">
           <a href="case-details.html">
-            <img src="https://themeforest.img.customer.envatousercontent.com/files/389376219/01_preview_carce.png?auto=compress%2Cformat&fit=crop&crop=top&w=590&h=300&s=926e1e4305b20fe6c41cf5d2778028f3" alt="Images" />
+            <img src="https://themeforest.img.customer.envatousercontent.com/files/397219514/01_Preview.png?auto=compress%2Cformat&fit=crop&crop=top&w=590&h=300&s=e46317234562fa24fe1d9eae14ed78ac" alt="Images" />
           </a>
           <div className="content shadow bg-light">
             <h3>
@@ -988,7 +988,7 @@ export default function WebDevelopment_Tabs(){
       <div className="col-lg-4 col-md-6">
         <div className="build-item">
           <a href="case-details.html">
-            <img src="https://themeforest.img.customer.envatousercontent.com/files/370517652/01_Preview.png?auto=compress%2Cformat&fit=crop&crop=top&w=590&h=300&s=bfd01d99136ea87186062f1e86174bca" alt="Images" />
+            <img src="https://themeforest.img.customer.envatousercontent.com/files/373536014/01_preview.png?auto=compress%2Cformat&fit=crop&crop=top&w=590&h=300&s=82ad3c9dac0e4494a5578b500b25ee6d" alt="Images" />
           </a>
           <div className="content shadow bg-light">
             <h3>
@@ -1012,7 +1012,7 @@ export default function WebDevelopment_Tabs(){
       <div className="col-lg-4 col-md-6">
         <div className="build-item">
           <a href="case-details.html">
-            <img src="https://themeforest.img.customer.envatousercontent.com/files/364710426/01_Foodkapp+mobile+app.jpg?auto=compress%2Cformat&fit=crop&crop=top&w=590&h=300&s=a895b2af76d3019f3a7b8892e97a9360" alt="Images" />
+            <img src="https://themeforest.img.customer.envatousercontent.com/files/387224051/preview/01_cover.jpg?auto=compress%2Cformat&fit=crop&crop=top&w=590&h=300&s=9baaf25dc5ca5ccd9a826a42ee000917" alt="Images" />
           </a>
           <div className="content shadow bg-light">
             <h3>
@@ -1036,7 +1036,7 @@ export default function WebDevelopment_Tabs(){
       <div className="col-lg-4 col-md-6">
         <div className="build-item">
           <a href="case-details.html">
-            <img src="https://themeforest.img.customer.envatousercontent.com/files/374555564/01_banner.jpg?auto=compress%2Cformat&fit=crop&crop=top&w=590&h=300&s=89eff0f5138c96ca3b9e4e3d8add1581" alt="Images" />
+            <img src="https://themeforest.img.customer.envatousercontent.com/files/388916680/preview.png?auto=compress%2Cformat&fit=crop&crop=top&w=590&h=300&s=87854b3fcee3ebf7daf980b12f7853fa" alt="Images" />
           </a>
           <div className="content shadow bg-light">
             <h3>
@@ -1060,7 +1060,7 @@ export default function WebDevelopment_Tabs(){
       <div className="col-lg-4 col-md-6">
         <div className="build-item">
           <a href="case-details.html">
-            <img src="https://themeforest.img.customer.envatousercontent.com/files/385383074/bb.jpg?auto=compress%2Cformat&fit=crop&crop=top&w=590&h=300&s=b1d3e6255e6ce5cfc86416c274029aea" alt="Images" />
+            <img src="https://themeforest.img.customer.envatousercontent.com/files/376213627/neeon-preview/01_preview.png?auto=compress%2Cformat&fit=crop&crop=top&w=590&h=300&s=383f938e4b4bb4406143a4f57daa9648" alt="Images" />
           </a>
           <div className="content shadow bg-light">
             <h3>
@@ -1084,7 +1084,7 @@ export default function WebDevelopment_Tabs(){
       <div className="col-lg-4 col-md-6">
         <div className="build-item">
           <a href="case-details.html">
-            <img src="https://themeforest.img.customer.envatousercontent.com/files/367382755/preview.png?auto=compress%2Cformat&fit=crop&crop=top&w=590&h=300&s=249703738e845838ca5dad2f85dc4df4" alt="Images" />
+            <img src="https://themeforest.img.customer.envatousercontent.com/files/377168627/volia_preview/01_preview.png?auto=compress%2Cformat&fit=crop&crop=top&w=590&h=300&s=1e8322ed9910feb2309a10d86573e8b9" alt="Images" />
           </a>
           <div className="content shadow bg-light">
             <h3>
@@ -1108,7 +1108,7 @@ export default function WebDevelopment_Tabs(){
       <div className="col-lg-4 col-md-6 offset-lg-0 offset-md-3">
         <div className="build-item">
           <a href="case-details.html">
-            <img src="https://themeforest.img.customer.envatousercontent.com/files/358810151/00_preview.jpg?auto=compress%2Cformat&fit=crop&crop=top&w=590&h=300&s=abe6a0e0f40df06a4a339f2b7ed991fa" alt="Images" />
+            <img src="https://themeforest.img.customer.envatousercontent.com/files/397058374/preview.png?auto=compress%2Cformat&fit=crop&crop=top&w=590&h=300&s=b99800c2df44f8bbf025a78c8e918157" alt="Images" />
           </a>
           <div className="content shadow bg-light">
             <h3>
@@ -1132,7 +1132,7 @@ export default function WebDevelopment_Tabs(){
       <div className="col-lg-4 col-md-6">
         <div className="build-item">
           <a href="case-details.html">
-            <img src="https://themeforest.img.customer.envatousercontent.com/files/350304229/Maan-Soft-Up.png?auto=compress%2Cformat&fit=crop&crop=top&w=590&h=300&s=5ec2c4ae4242d39aed889c1412104460" alt="Images" />
+            <img src="https://themeforest.img.customer.envatousercontent.com/files/355410386/preview.png?auto=compress%2Cformat&fit=crop&crop=top&w=590&h=300&s=0eb35c65a911632f3c0fbce1431bead1" alt="Images" />
           </a>
           <div className="content shadow bg-light">
             <h3>
@@ -1156,7 +1156,7 @@ export default function WebDevelopment_Tabs(){
       <div className="col-lg-4 col-md-6">
         <div className="build-item">
           <a href="case-details.html">
-            <img src="https://themeforest.img.customer.envatousercontent.com/files/366363766/01_wolmart.png?auto=compress%2Cformat&fit=crop&crop=top&w=590&h=300&s=c51562a4acc19783731ad9c5e36e75a5" alt="Images" />
+            <img src="https://themeforest.img.customer.envatousercontent.com/files/395364558/Banner.jpg?auto=compress%2Cformat&fit=crop&crop=top&w=590&h=300&s=6989fee40b0bcb11f46fb94f1b1ec915" alt="Images" />
           </a>
           <div className="content shadow bg-light">
             <h3>
@@ -1180,7 +1180,7 @@ export default function WebDevelopment_Tabs(){
       <div className="col-lg-4 col-md-6">
         <div className="build-item">
           <a href="case-details.html">
-            <img src="https://themeforest.img.customer.envatousercontent.com/files/378166127/01_preview.png?auto=compress%2Cformat&fit=crop&crop=top&w=590&h=300&s=76af8890d53c2f74ebdfb6da443e3bbd" alt="Images" />
+            <img src="https://themeforest.img.customer.envatousercontent.com/files/369366426/theme+preview.png?auto=compress%2Cformat&fit=crop&crop=top&w=590&h=300&s=2164a83cb2a14652c3a75fa6a5e8f701" alt="Images" />
           </a>
           <div className="content shadow bg-light">
             <h3>
@@ -1204,7 +1204,7 @@ export default function WebDevelopment_Tabs(){
       <div className="col-lg-4 col-md-6">
         <div className="build-item">
           <a href="case-details.html">
-            <img src="https://themeforest.img.customer.envatousercontent.com/files/385383074/bb.jpg?auto=compress%2Cformat&fit=crop&crop=top&w=590&h=300&s=b1d3e6255e6ce5cfc86416c274029aea" alt="Images" />
+            <img src="https://themeforest.img.customer.envatousercontent.com/files/363267005/preview.jpg?auto=compress%2Cformat&fit=crop&crop=top&w=590&h=300&s=12b8fd3cdd72f7620d858eb55231d429" alt="Images" />
           </a>
           <div className="content shadow bg-light">
             <h3>
@@ -1228,7 +1228,7 @@ export default function WebDevelopment_Tabs(){
       <div className="col-lg-4 col-md-6">
         <div className="build-item">
           <a href="case-details.html">
-            <img src="https://themeforest.img.customer.envatousercontent.com/files/367382755/preview.png?auto=compress%2Cformat&fit=crop&crop=top&w=590&h=300&s=249703738e845838ca5dad2f85dc4df4" alt="Images" />
+            <img src="https://themeforest.img.customer.envatousercontent.com/files/389038496/preview/01_preview.jpg?auto=compress%2Cformat&fit=crop&crop=top&w=590&h=300&s=e3619367b2e2854604ad41fe3528f10e" alt="Images" />
           </a>
           <div className="content shadow bg-light">
             <h3>
@@ -1252,7 +1252,7 @@ export default function WebDevelopment_Tabs(){
       <div className="col-lg-4 col-md-6 offset-lg-0 offset-md-3">
         <div className="build-item">
           <a href="case-details.html">
-            <img src="https://themeforest.img.customer.envatousercontent.com/files/358810151/00_preview.jpg?auto=compress%2Cformat&fit=crop&crop=top&w=590&h=300&s=abe6a0e0f40df06a4a339f2b7ed991fa" alt="Images" />
+            <img src="https://themeforest.img.customer.envatousercontent.com/files/395565948/preview.jpg?auto=compress%2Cformat&fit=crop&crop=top&w=590&h=300&s=ca96945111efb25218284b81e852bea8" alt="Images" />
           </a>
           <div className="content shadow bg-light">
             <h3>
@@ -1276,7 +1276,7 @@ export default function WebDevelopment_Tabs(){
       <div className="col-lg-4 col-md-6">
         <div className="build-item">
           <a href="case-details.html">
-            <img src="https://themeforest.img.customer.envatousercontent.com/files/350304229/Maan-Soft-Up.png?auto=compress%2Cformat&fit=crop&crop=top&w=590&h=300&s=5ec2c4ae4242d39aed889c1412104460" alt="Images" />
+            <img src="https://themeforest.img.customer.envatousercontent.com/files/262303941/preview.jpg?auto=compress%2Cformat&fit=crop&crop=top&w=590&h=300&s=7ce45de3cf6b14d6864372b1ff1fef81" alt="Images" />
           </a>
           <div className="content shadow bg-light">
             <h3>
@@ -1324,7 +1324,7 @@ export default function WebDevelopment_Tabs(){
       <div className="col-lg-4 col-md-6">
         <div className="build-item">
           <a href="case-details.html">
-            <img src="https://themeforest.img.customer.envatousercontent.com/files/378166127/01_preview.png?auto=compress%2Cformat&fit=crop&crop=top&w=590&h=300&s=76af8890d53c2f74ebdfb6da443e3bbd" alt="Images" />
+            <img src="https://themeforest.img.customer.envatousercontent.com/files/126636889/00-everline-590.jpg?auto=compress%2Cformat&fit=crop&crop=top&w=590&h=300&s=14d98fbde9a5cd6a6da00d2e08cb73f3" alt="Images" />
           </a>
           <div className="content shadow bg-light">
             <h3>
@@ -1383,7 +1383,7 @@ export default function WebDevelopment_Tabs(){
       <div className="col-lg-4 col-md-6">
         <div className="build-item">
           <a href="case-details.html">
-            <img src="https://themeforest.img.customer.envatousercontent.com/files/396174369/01_Preview.png?auto=compress%2Cformat&fit=crop&crop=top&w=590&h=300&s=1df1784e472d10d7c74767eb082f9078" alt="Images" />
+            <img src="https://themeforest.img.customer.envatousercontent.com/files/302465875/preview.jpg?auto=compress%2Cformat&fit=crop&crop=top&w=590&h=300&s=346f0aac5d06d4c17bdea85128efca41" alt="Images" />
           </a>
           <div className="content shadow bg-light">
             <h3>

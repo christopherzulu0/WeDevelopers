@@ -25,7 +25,7 @@ export default function WebDevelopment_Intro() {
           <div className="banner-six-content">
             <h1>Hire Our Expert Developers</h1>
             <p>
-              Engage our trained developers, develop and design your websites today.
+              Engage our trained developers,to develop and design your websites today.
             </p>
             <div className="banner-btn">
               <a
