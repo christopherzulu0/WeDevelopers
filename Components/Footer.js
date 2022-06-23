@@ -1,12 +1,12 @@
 /* eslint-disable @next/next/no-img-element */
-import Contact from "./Contact"
+
 
 function Footer(){
     return(
       
         <>
        
-        <Contact/>
+    
        
        
        <footer className="footer-area footer-bg2 " 
