@@ -2384,8 +2384,8 @@ export default function WebDevelopment_Tabs(){
 
       {/* End of Marketing Tab */}
 
-      {/* Start Of Blogging Tab */}
-      <Tab eventKey="Blogging" title="Blogging"   style={{marginLeft:"0%"}} >
+      {/* Start Of CMS Tab */}
+      <Tab eventKey="CMS" title="CMS"   style={{marginLeft:"0%"}} >
       <div className="build-area-two pt-30 pb-70">
         <div className="container">
    
@@ -2393,7 +2393,7 @@ export default function WebDevelopment_Tabs(){
       <div className="col-lg-4 col-md-6">
         <div className="build-item">
           <a href="case-details.html">
-            <img src="https://themeforest.img.customer.envatousercontent.com/files/383685933/01_preview.png?auto=compress%2Cformat&fit=crop&crop=top&w=590&h=300&s=ebb677d51751bdf45a3ca3ec49c13135" alt="Images" />
+            <img src="https://themeforest.img.customer.envatousercontent.com/files/330789271/best_preview.jpg?auto=compress%2Cformat&fit=crop&crop=top&w=590&h=300&s=9cd158eafa913638383754f1afd4b80f" alt="Images" />
           </a>
           <div className="content shadow bg-light">
             <h3>
@@ -2417,7 +2417,7 @@ export default function WebDevelopment_Tabs(){
       <div className="col-lg-4 col-md-6">
         <div className="build-item">
           <a href="case-details.html">
-            <img src="https://themeforest.img.customer.envatousercontent.com/files/396174369/01_Preview.png?auto=compress%2Cformat&fit=crop&crop=top&w=590&h=300&s=1df1784e472d10d7c74767eb082f9078" alt="Images" />
+            <img src="https://themeforest.img.customer.envatousercontent.com/files/390544623/preview/01_preview.jpg?auto=compress%2Cformat&fit=crop&crop=top&w=590&h=300&s=26553404ede14510e43461399657a543" alt="Images" />
           </a>
           <div className="content shadow bg-light">
             <h3>
@@ -2441,7 +2441,7 @@ export default function WebDevelopment_Tabs(){
       <div className="col-lg-4 col-md-6 offset-lg-0 offset-md-3">
         <div className="build-item">
           <a href="case-details.html">
-            <img src="https://themeforest.img.customer.envatousercontent.com/files/389376219/01_preview_carce.png?auto=compress%2Cformat&fit=crop&crop=top&w=590&h=300&s=926e1e4305b20fe6c41cf5d2778028f3" alt="Images" />
+            <img src="https://themeforest.img.customer.envatousercontent.com/files/395057659/preview/01_preview.jpg?auto=compress%2Cformat&fit=crop&crop=top&w=590&h=300&s=06acaf54a890635ffb66cde8eb2ab277" alt="Images" />
           </a>
           <div className="content shadow bg-light">
             <h3>
@@ -2465,7 +2465,7 @@ export default function WebDevelopment_Tabs(){
       <div className="col-lg-4 col-md-6">
         <div className="build-item">
           <a href="case-details.html">
-            <img src="https://themeforest.img.customer.envatousercontent.com/files/370517652/01_Preview.png?auto=compress%2Cformat&fit=crop&crop=top&w=590&h=300&s=bfd01d99136ea87186062f1e86174bca" alt="Images" />
+            <img src="https://themeforest.img.customer.envatousercontent.com/files/298315215/preview/01_preview.jpg?auto=compress%2Cformat&fit=crop&crop=top&w=590&h=300&s=d69d028727b0d0e5f9b8613932a81900" alt="Images" />
           </a>
           <div className="content shadow bg-light">
             <h3>
@@ -2489,7 +2489,7 @@ export default function WebDevelopment_Tabs(){
       <div className="col-lg-4 col-md-6">
         <div className="build-item">
           <a href="case-details.html">
-            <img src="https://themeforest.img.customer.envatousercontent.com/files/364710426/01_Foodkapp+mobile+app.jpg?auto=compress%2Cformat&fit=crop&crop=top&w=590&h=300&s=a895b2af76d3019f3a7b8892e97a9360" alt="Images" />
+            <img src="https://themeforest.img.customer.envatousercontent.com/files/395625129/preview/01_preview.jpg?auto=compress%2Cformat&fit=crop&crop=top&w=590&h=300&s=0ac81e76d832d34bf235bd52c898e689" alt="Images" />
           </a>
           <div className="content shadow bg-light">
             <h3>
@@ -2513,7 +2513,7 @@ export default function WebDevelopment_Tabs(){
       <div className="col-lg-4 col-md-6">
         <div className="build-item">
           <a href="case-details.html">
-            <img src="https://themeforest.img.customer.envatousercontent.com/files/374555564/01_banner.jpg?auto=compress%2Cformat&fit=crop&crop=top&w=590&h=300&s=89eff0f5138c96ca3b9e4e3d8add1581" alt="Images" />
+            <img src="https://themeforest.img.customer.envatousercontent.com/files/397373338/01_preview.png?auto=compress%2Cformat&fit=crop&crop=top&w=590&h=300&s=7fa1bd55c3c0958aa03545ba8daeac56" alt="Images" />
           </a>
           <div className="content shadow bg-light">
             <h3>
@@ -2537,7 +2537,7 @@ export default function WebDevelopment_Tabs(){
       <div className="col-lg-4 col-md-6">
         <div className="build-item">
           <a href="case-details.html">
-            <img src="https://themeforest.img.customer.envatousercontent.com/files/385383074/bb.jpg?auto=compress%2Cformat&fit=crop&crop=top&w=590&h=300&s=b1d3e6255e6ce5cfc86416c274029aea" alt="Images" />
+            <img src="https://themeforest.img.customer.envatousercontent.com/files/397202206/preview.png?auto=compress%2Cformat&fit=crop&crop=top&w=590&h=300&s=8662e7aca24f26ee3360acd40a7664b5" alt="Images" />
           </a>
           <div className="content shadow bg-light">
             <h3>
@@ -2561,7 +2561,7 @@ export default function WebDevelopment_Tabs(){
       <div className="col-lg-4 col-md-6">
         <div className="build-item">
           <a href="case-details.html">
-            <img src="https://themeforest.img.customer.envatousercontent.com/files/367382755/preview.png?auto=compress%2Cformat&fit=crop&crop=top&w=590&h=300&s=249703738e845838ca5dad2f85dc4df4" alt="Images" />
+            <img src="https://themeforest.img.customer.envatousercontent.com/files/388720677/01_preview.png?auto=compress%2Cformat&fit=crop&crop=top&w=590&h=300&s=28ad7acb7762c0411d0ff4ee5e35350c" alt="Images" />
           </a>
           <div className="content shadow bg-light">
             <h3>
@@ -2585,7 +2585,7 @@ export default function WebDevelopment_Tabs(){
       <div className="col-lg-4 col-md-6 offset-lg-0 offset-md-3">
         <div className="build-item">
           <a href="case-details.html">
-            <img src="https://themeforest.img.customer.envatousercontent.com/files/358810151/00_preview.jpg?auto=compress%2Cformat&fit=crop&crop=top&w=590&h=300&s=abe6a0e0f40df06a4a339f2b7ed991fa" alt="Images" />
+            <img src="https://previews.customer.envatousercontent.com/files/365647916/01_preview.__large_preview.jpg" alt="Images" />
           </a>
           <div className="content shadow bg-light">
             <h3>
@@ -2609,7 +2609,7 @@ export default function WebDevelopment_Tabs(){
       <div className="col-lg-4 col-md-6">
         <div className="build-item">
           <a href="case-details.html">
-            <img src="https://themeforest.img.customer.envatousercontent.com/files/350304229/Maan-Soft-Up.png?auto=compress%2Cformat&fit=crop&crop=top&w=590&h=300&s=5ec2c4ae4242d39aed889c1412104460" alt="Images" />
+            <img src="https://previews.customer.envatousercontent.com/files/365647916/01_preview.__large_preview.jpg" alt="Images" />
           </a>
           <div className="content shadow bg-light">
             <h3>
@@ -2633,7 +2633,7 @@ export default function WebDevelopment_Tabs(){
       <div className="col-lg-4 col-md-6">
         <div className="build-item">
           <a href="case-details.html">
-            <img src="https://themeforest.img.customer.envatousercontent.com/files/366363766/01_wolmart.png?auto=compress%2Cformat&fit=crop&crop=top&w=590&h=300&s=c51562a4acc19783731ad9c5e36e75a5" alt="Images" />
+            <img src="https://previews.customer.envatousercontent.com/files/383154327/01_Preview.__large_preview.jpg" alt="Images" />
           </a>
           <div className="content shadow bg-light">
             <h3>
@@ -2657,7 +2657,7 @@ export default function WebDevelopment_Tabs(){
       <div className="col-lg-4 col-md-6">
         <div className="build-item">
           <a href="case-details.html">
-            <img src="https://themeforest.img.customer.envatousercontent.com/files/378166127/01_preview.png?auto=compress%2Cformat&fit=crop&crop=top&w=590&h=300&s=76af8890d53c2f74ebdfb6da443e3bbd" alt="Images" />
+            <img src="https://themeforest.img.customer.envatousercontent.com/files/346578173/screenshot.png?auto=compress%2Cformat&fit=crop&crop=top&w=590&h=300&s=35fcfd940fb7cdf133be0b7b4065c260" alt="Images" />
           </a>
           <div className="content shadow bg-light">
             <h3>
@@ -2681,7 +2681,7 @@ export default function WebDevelopment_Tabs(){
       <div className="col-lg-4 col-md-6">
         <div className="build-item">
           <a href="case-details.html">
-            <img src="https://themeforest.img.customer.envatousercontent.com/files/385383074/bb.jpg?auto=compress%2Cformat&fit=crop&crop=top&w=590&h=300&s=b1d3e6255e6ce5cfc86416c274029aea" alt="Images" />
+            <img src="https://themeforest.img.customer.envatousercontent.com/files/346580677/01_softek_HubSpot.jpg?auto=compress%2Cformat&fit=crop&crop=top&w=590&h=300&s=84bc33600f0bf8d1c8bb561ec16c4ec9" alt="Images" />
           </a>
           <div className="content shadow bg-light">
             <h3>
@@ -2705,7 +2705,7 @@ export default function WebDevelopment_Tabs(){
       <div className="col-lg-4 col-md-6">
         <div className="build-item">
           <a href="case-details.html">
-            <img src="https://themeforest.img.customer.envatousercontent.com/files/367382755/preview.png?auto=compress%2Cformat&fit=crop&crop=top&w=590&h=300&s=249703738e845838ca5dad2f85dc4df4" alt="Images" />
+            <img src="https://themeforest.img.customer.envatousercontent.com/files/345149377/preview.jpg?auto=compress%2Cformat&fit=crop&crop=top&w=590&h=300&s=6cd205ee65e6777bac2916738c9bdae6" alt="Images" />
           </a>
           <div className="content shadow bg-light">
             <h3>
@@ -2729,7 +2729,7 @@ export default function WebDevelopment_Tabs(){
       <div className="col-lg-4 col-md-6 offset-lg-0 offset-md-3">
         <div className="build-item">
           <a href="case-details.html">
-            <img src="https://themeforest.img.customer.envatousercontent.com/files/358810151/00_preview.jpg?auto=compress%2Cformat&fit=crop&crop=top&w=590&h=300&s=abe6a0e0f40df06a4a339f2b7ed991fa" alt="Images" />
+            <img src="https://themeforest.img.customer.envatousercontent.com/files/343608846/preview.jpg?auto=compress%2Cformat&fit=crop&crop=top&w=590&h=300&s=984a2a87cc313fb08d83d52b9a4d8f46" alt="Images" />
           </a>
           <div className="content shadow bg-light">
             <h3>
@@ -2753,7 +2753,7 @@ export default function WebDevelopment_Tabs(){
       <div className="col-lg-4 col-md-6">
         <div className="build-item">
           <a href="case-details.html">
-            <img src="https://themeforest.img.customer.envatousercontent.com/files/350304229/Maan-Soft-Up.png?auto=compress%2Cformat&fit=crop&crop=top&w=590&h=300&s=5ec2c4ae4242d39aed889c1412104460" alt="Images" />
+            <img src="https://themeforest.img.customer.envatousercontent.com/files/354827709/preview.png?auto=compress%2Cformat&fit=crop&crop=top&w=590&h=300&s=4e7efbe32b19aea0e26104b2176617ff" alt="Images" />
           </a>
           <div className="content shadow bg-light">
             <h3>
@@ -2777,7 +2777,7 @@ export default function WebDevelopment_Tabs(){
       <div className="col-lg-4 col-md-6">
         <div className="build-item">
           <a href="case-details.html">
-            <img src="https://themeforest.img.customer.envatousercontent.com/files/366363766/01_wolmart.png?auto=compress%2Cformat&fit=crop&crop=top&w=590&h=300&s=c51562a4acc19783731ad9c5e36e75a5" alt="Images" />
+            <img src="https://themeforest.img.customer.envatousercontent.com/files/343174688/banner.jpg?auto=compress%2Cformat&fit=crop&crop=top&w=590&h=300&s=e888e51e88de72c957a87ac2805bd105" alt="Images" />
           </a>
           <div className="content shadow bg-light">
             <h3>
@@ -2801,7 +2801,7 @@ export default function WebDevelopment_Tabs(){
       <div className="col-lg-4 col-md-6">
         <div className="build-item">
           <a href="case-details.html">
-            <img src="https://themeforest.img.customer.envatousercontent.com/files/378166127/01_preview.png?auto=compress%2Cformat&fit=crop&crop=top&w=590&h=300&s=76af8890d53c2f74ebdfb6da443e3bbd" alt="Images" />
+            <img src="https://themeforest.img.customer.envatousercontent.com/files/345312697/preview.jpg?auto=compress%2Cformat&fit=crop&crop=top&w=590&h=300&s=537584180bf55c46704c380f9c496697" alt="Images" />
           </a>
           <div className="content shadow bg-light">
             <h3>
