@@ -472,7 +472,7 @@ export default function WebDevelopment_Tabs(){
       <div className="col-lg-4 col-md-6">
         <div className="build-item">
           <a href="case-details.html">
-            <img src="https://themeforest.img.customer.envatousercontent.com/files/355267492/preview/00_preview.png?auto=compress%2Cformat&fit=crop&crop=top&w=590&h=300&s=0820ffbbe775fa09e1f6235dd458b771" alt="Images" />
+            <img src="https://themeforest.img.customer.envatousercontent.com/files/278358037/01_590x300.png?auto=compress%2Cformat&fit=crop&crop=top&w=590&h=300&s=808f8024f6c5d4a92f76fa6f8d662575" alt="Images" />
           </a>
           <div className="content shadow bg-light">
             <h3>
@@ -496,7 +496,7 @@ export default function WebDevelopment_Tabs(){
       <div className="col-lg-4 col-md-6">
         <div className="build-item">
           <a href="case-details.html">
-            <img src="https://themeforest.img.customer.envatousercontent.com/files/390559498/theme_preview.jpeg?auto=compress%2Cformat&fit=crop&crop=top&w=590&h=300&s=bbf5df51dfd5b994beeff06fed78f9dc" alt="Images" />
+            <img src="https://themeforest.img.customer.envatousercontent.com/files/278358422/01_590x300.png?auto=compress%2Cformat&fit=crop&crop=top&w=590&h=300&s=d58fce703e848e63887c92c7e2107783" alt="Images" />
           </a>
           <div className="content shadow bg-light">
             <h3>
@@ -688,7 +688,7 @@ export default function WebDevelopment_Tabs(){
       <div className="col-lg-4 col-md-6">
         <div className="build-item">
           <a href="case-details.html">
-            <img src="https://themeforest.img.customer.envatousercontent.com/files/397109918/01_preview.jpg?auto=compress%2Cformat&fit=crop&crop=top&w=590&h=300&s=9f6eafd6fbfbaeb364b4bff66da46710" alt="Images" />
+            <img src="https://themeforest.img.customer.envatousercontent.com/files/284305333/01-590x300.jpg?auto=compress%2Cformat&fit=crop&crop=top&w=590&h=300&s=f9b22a298c91fa4522ed985e49e6a0e6" alt="Images" />
           </a>
           <div className="content shadow bg-light">
             <h3>

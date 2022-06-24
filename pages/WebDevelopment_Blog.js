@@ -5,6 +5,8 @@ import WebDevelopment_Intro from "../Components/WebDevelopment_Intro";
 import WebDevelopment_Tabs from "../Components/WebDevelopment_Tabs";
 import Head from "next/head";
 import Script from "next/script";
+
+import Footer from "../Components/Footer";
 export default function WebDevelopment_Blog(){
     return(
         <>
@@ -39,7 +41,10 @@ export default function WebDevelopment_Blog(){
         <link rel="stylesheet" href="assets/css/style.css" />
         <link rel="stylesheet" href="assets2/css/style.css"></link>
         <link rel="stylesheet" href="assets/css/responsive.css" />
+
+        
         <link rel="icon" href="/logo1.png" />
+        
       </Head>
 
       <Script src="assets/js/jquery.min.js"></Script>
@@ -55,6 +60,7 @@ export default function WebDevelopment_Blog(){
         <Header/>
         <WebDevelopment_Intro/>
         <WebDevelopment_Tabs/>
+        <Footer />
         </>
     )
 }

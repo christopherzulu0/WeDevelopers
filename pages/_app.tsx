@@ -1,5 +1,6 @@
 /* eslint-disable @next/next/inline-script-id */
 import '../styles/globals.css'
+import { RecoilRoot } from "recoil";
 import "bootstrap/dist/css/bootstrap.min.css";
 import { ChakraProvider } from '@chakra-ui/react'
 import type { AppProps } from "next/app";
@@ -24,12 +25,14 @@ function MyApp({ Component, pageProps }: AppProps) {
       </Script>
     
     </>
-    
+    <RecoilRoot>
        <ChakraProvider>
        <SSRProvider>
         <Component {...pageProps} />
         </SSRProvider>
-      </ChakraProvider></>
+      </ChakraProvider>
+      </RecoilRoot>
+      </>
   )
 }
 

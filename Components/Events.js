@@ -1,4 +1,5 @@
 /* eslint-disable @next/next/no-img-element */
+import Link from "next/link"
 export default function Events(){
     return(
         <>
@@ -49,7 +50,7 @@ export default function Events(){
                     of the training, the girls were trained on computer
                     Appreciat...
                   </p>
-                  <a href="blog-details.html" className="read-btn">
+                  <a href="/EventBlog" className="read-btn">
                     Read More <i className="bx bx-chevron-right" />
                   </a>
                 </div>
@@ -96,7 +97,7 @@ export default function Events(){
                     overview of the technologies that we consider will have the
                     greatest impact in the future.
                   </p>
-                  <a href="blog-details.html" className="read-btn">
+                  <a href="/EventBlog" className="read-btn">
                     Read More <i className="bx bx-chevron-right" />
                   </a>
                 </div>
@@ -143,7 +144,7 @@ export default function Events(){
                     ambitious plan include economic diversification and job
                     creation, reductio...
                   </p>
-                  <a href="blog-details.html" className="read-btn">
+                  <a href="/EventBlog" className="read-btn">
                     Read More <i className="bx bx-chevron-right" />
                   </a>
                 </div>
@@ -189,7 +190,7 @@ export default function Events(){
                     doors to skills and capacity development, and are today
                     providing the continent with the tools to...
                   </p>
-                  <a href="blog-details.html" className="read-btn">
+                  <a href="/EventBlog" className="read-btn">
                     Read More <i className="bx bx-chevron-right" />
                   </a>
                 </div>
@@ -235,7 +236,7 @@ export default function Events(){
                     developers and share broad ideas with the famours
                     programming language C++...
                   </p>
-                  <a href="blog-details.html" className="read-btn">
+                  <a href="/EventBlog" className="read-btn">
                     Read More <i className="bx bx-chevron-right" />
                   </a>
                 </div>
@@ -279,7 +280,7 @@ export default function Events(){
                     programmer at wedevelopers along side many other developers
                     from different institutions...
                   </p>
-                  <a href="blog-details.html" className="read-btn">
+                  <a href="/EventBlog" className="read-btn">
                     Read More <i className="bx bx-chevron-right" />
                   </a>
                 </div>

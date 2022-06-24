@@ -15,17 +15,17 @@ export default function ServicesTab(){
       activeKey={key}
       onSelect={(k) => setKey(k)}
       className="mb-3 bg-light"
-      style={{marginLeft:"30%"}}
+     
     >
       <Tab eventKey="home" title="Web Development" style={{marginLeft:"0%"}} className="text-info">
       <div className="build-area-two pt-30 pb-70">
         <div className="container">
    
     <div className="row pt-5" style={{marginLeft:"-3%"}}>
-      <div className="col-lg-4 col-md-6">
+    <div className="col-lg-4 col-md-6">
         <div className="build-item">
           <a href="case-details.html">
-            <img src="https://themeforest.img.customer.envatousercontent.com/files/385383074/bb.jpg?auto=compress%2Cformat&fit=crop&crop=top&w=590&h=300&s=b1d3e6255e6ce5cfc86416c274029aea" alt="Images" />
+            <img src="https://themeforest.img.customer.envatousercontent.com/files/353880308/preview/00_preview.png?auto=compress%2Cformat&fit=crop&crop=top&w=590&h=300&s=f0ba41039b876ba14eed6300782ca896" alt="Images" />
           </a>
           <div className="content shadow bg-light">
             <h3>
@@ -49,7 +49,7 @@ export default function ServicesTab(){
       <div className="col-lg-4 col-md-6">
         <div className="build-item">
           <a href="case-details.html">
-            <img src="https://themeforest.img.customer.envatousercontent.com/files/367382755/preview.png?auto=compress%2Cformat&fit=crop&crop=top&w=590&h=300&s=249703738e845838ca5dad2f85dc4df4" alt="Images" />
+            <img src="https://themeforest.img.customer.envatousercontent.com/files/330855937/preview/preview.jpg?auto=compress%2Cformat&fit=crop&crop=top&w=590&h=300&s=6847d8d9715a69e2ed33ac0c6caae096" alt="Images" />
           </a>
           <div className="content shadow bg-light">
             <h3>
@@ -73,7 +73,7 @@ export default function ServicesTab(){
       <div className="col-lg-4 col-md-6 offset-lg-0 offset-md-3">
         <div className="build-item">
           <a href="case-details.html">
-            <img src="https://themeforest.img.customer.envatousercontent.com/files/358810151/00_preview.jpg?auto=compress%2Cformat&fit=crop&crop=top&w=590&h=300&s=abe6a0e0f40df06a4a339f2b7ed991fa" alt="Images" />
+            <img src="https://themeforest.img.customer.envatousercontent.com/files/294246037/01_image_preview.jpg?auto=compress%2Cformat&fit=crop&crop=top&w=590&h=300&s=9e9bd4ad7cd8d8ca5cdc45b94d792ec2" alt="Images" />
           </a>
           <div className="content shadow bg-light">
             <h3>
@@ -97,7 +97,295 @@ export default function ServicesTab(){
       <div className="col-lg-4 col-md-6">
         <div className="build-item">
           <a href="case-details.html">
-            <img src="https://themeforest.img.customer.envatousercontent.com/files/350304229/Maan-Soft-Up.png?auto=compress%2Cformat&fit=crop&crop=top&w=590&h=300&s=5ec2c4ae4242d39aed889c1412104460" alt="Images" />
+            <img src="https://themeforest.img.customer.envatousercontent.com/files/294459006/01_mainpreview.jpg?auto=compress%2Cformat&fit=crop&crop=top&w=590&h=300&s=ba1eca4e42b73c599a0c44c2faca274a" alt="Images" />
+          </a>
+          <div className="content shadow bg-light">
+            <h3>
+              <a href="case-details.html">Landing Page</a>
+            </h3>
+            <ul>
+              <li>
+                <a href="case-details.html">Design</a>
+              </li>
+              <li>
+                <a href="case-details.html">Development</a>{" "}
+              </li>
+            </ul>
+            <a href="case-details.html" className="more-btn">
+              <i className="bx bx-right-arrow-alt" />
+            </a>
+          </div>
+        </div>
+      </div>
+
+      <div className="col-lg-4 col-md-6">
+        <div className="build-item">
+          <a href="case-details.html">
+            <img src="https://themeforest.img.customer.envatousercontent.com/files/236650261/01_preview.jpg?auto=compress%2Cformat&fit=crop&crop=top&w=590&h=300&s=0bad35524260d564b3f2f76cf091c4d7" alt="Images" />
+          </a>
+          <div className="content shadow bg-light">
+            <h3>
+              <a href="case-details.html">Ecommerce</a>
+            </h3>
+            <ul>
+              <li>
+                <a href="case-details.html">Design</a>
+              </li>
+              <li>
+                <a href="case-details.html">Development</a>{" "}
+              </li>
+            </ul>
+            <a href="case-details.html" className="more-btn">
+              <i className="bx bx-right-arrow-alt" />
+            </a>
+          </div>
+        </div>
+      </div>
+
+      <div className="col-lg-4 col-md-6">
+        <div className="build-item">
+          <a href="case-details.html">
+            <img src="https://themeforest.img.customer.envatousercontent.com/files/392444251/preview.png?auto=compress%2Cformat&fit=crop&crop=top&w=590&h=300&s=41096cbba3faf51d872257a4227d752c" alt="Images" />
+          </a>
+          <div className="content shadow bg-light">
+            <h3>
+              <a href="case-details.html">Health Services</a>
+            </h3>
+            <ul>
+              <li>
+                <a href="case-details.html">Design</a>
+              </li>
+              <li>
+                <a href="case-details.html">Development</a>{" "}
+              </li>
+            </ul>
+            <a href="case-details.html" className="more-btn">
+              <i className="bx bx-right-arrow-alt" />
+            </a>
+          </div>
+        </div>
+      </div>
+
+      <div className="col-lg-4 col-md-6">
+        <div className="build-item">
+          <a href="case-details.html">
+            <img src="https://themeforest.img.customer.envatousercontent.com/files/374335106/01_Homepage.jpg?auto=compress%2Cformat&fit=crop&crop=top&w=590&h=300&s=6eb8d8e5fcf0fc2e346fbe965632ee5a" alt="Images" />
+          </a>
+          <div className="content shadow bg-light">
+            <h3>
+              <a href="case-details.html">LMS </a>
+            </h3>
+            <ul>
+              <li>
+                <a href="case-details.html">Design</a>
+              </li>
+              <li>
+                <a href="case-details.html">Development</a>{" "}
+              </li>
+            </ul>
+            <a href="case-details.html" className="more-btn">
+              <i className="bx bx-right-arrow-alt" />
+            </a>
+          </div>
+        </div>
+      </div>
+
+      <div className="col-lg-4 col-md-6">
+        <div className="build-item">
+          <a href="case-details.html">
+            <img src="https://themeforest.img.customer.envatousercontent.com/files/264399716/01_590x300.jpg?auto=compress%2Cformat&fit=crop&crop=top&w=590&h=300&s=a15f426a039d6e17fc423d0f20490ea9" alt="Images" />
+          </a>
+          <div className="content shadow bg-light">
+            <h3>
+              <a href="case-details.html">Online Courses</a>
+            </h3>
+            <ul>
+              <li>
+                <a href="case-details.html">Design</a>
+              </li>
+              <li>
+                <a href="case-details.html">Social</a>{" "}
+              </li>
+            </ul>
+            <a href="case-details.html" className="more-btn">
+              <i className="bx bx-right-arrow-alt" />
+            </a>
+          </div>
+        </div>
+      </div>
+
+      <div className="col-lg-4 col-md-6 offset-lg-0 offset-md-3">
+        <div className="build-item">
+          <a href="case-details.html">
+            <img src="https://themeforest.img.customer.envatousercontent.com/files/397042327/01_preview-image.png?auto=compress%2Cformat&fit=crop&crop=top&w=590&h=300&s=dec34fa443e3e7638019d451e26f2fa2" alt="Images" />
+          </a>
+          <div className="content shadow bg-light">
+            <h3>
+              <a href="case-details.html">IT TECH Company</a>
+            </h3>
+            <ul>
+              <li>
+                <a href="case-details.html">UI/UX Design</a>
+              </li>
+              <li>
+                <a href="case-details.html">Research</a>
+              </li>
+            </ul>
+            <a href="case-details.html" className="more-btn">
+              <i className="bx bx-right-arrow-alt" />
+            </a>
+          </div>
+        </div>
+      </div>
+
+      <div className="col-lg-4 col-md-6">
+        <div className="build-item">
+          <a href="case-details.html">
+            <img src="https://themeforest.img.customer.envatousercontent.com/files/360159256/preview.png?auto=compress%2Cformat&fit=crop&crop=top&w=590&h=300&s=040fc66302581a38263220d3924cf573" alt="Images" />
+          </a>
+          <div className="content shadow bg-light">
+            <h3>
+              <a href="case-details.html">Landing Page</a>
+            </h3>
+            <ul>
+              <li>
+                <a href="case-details.html">Design</a>
+              </li>
+              <li>
+                <a href="case-details.html">Development</a>{" "}
+              </li>
+            </ul>
+            <a href="case-details.html" className="more-btn">
+              <i className="bx bx-right-arrow-alt" />
+            </a>
+          </div>
+        </div>
+      </div>
+
+      <div className="col-lg-4 col-md-6">
+        <div className="build-item">
+          <a href="case-details.html">
+            <img src="https://themeforest.img.customer.envatousercontent.com/files/393823057/theme_preview.png?auto=compress%2Cformat&fit=crop&crop=top&w=590&h=300&s=2b4f55f9e6eecaf2580087521b28402e" alt="Images" />
+          </a>
+          <div className="content shadow bg-light">
+            <h3>
+              <a href="case-details.html">Ecommerce</a>
+            </h3>
+            <ul>
+              <li>
+                <a href="case-details.html">Design</a>
+              </li>
+              <li>
+                <a href="case-details.html">Development</a>{" "}
+              </li>
+            </ul>
+            <a href="case-details.html" className="more-btn">
+              <i className="bx bx-right-arrow-alt" />
+            </a>
+          </div>
+        </div>
+      </div>
+
+      <div className="col-lg-4 col-md-6">
+        <div className="build-item">
+          <a href="case-details.html">
+            <img src="https://themeforest.img.customer.envatousercontent.com/files/386199611/theme_preview.png?auto=compress%2Cformat&fit=crop&crop=top&w=590&h=300&s=a37e0bb6f829ec72d19a56d41e0ec8ef" alt="Images" />
+          </a>
+          <div className="content shadow bg-light">
+            <h3>
+              <a href="case-details.html">Health Services</a>
+            </h3>
+            <ul>
+              <li>
+                <a href="case-details.html">Design</a>
+              </li>
+              <li>
+                <a href="case-details.html">Development</a>{" "}
+              </li>
+            </ul>
+            <a href="case-details.html" className="more-btn">
+              <i className="bx bx-right-arrow-alt" />
+            </a>
+          </div>
+        </div>
+      </div>
+
+      <div className="col-lg-4 col-md-6">
+        <div className="build-item">
+          <a href="case-details.html">
+            <img src="https://themeforest.img.customer.envatousercontent.com/files/390433285/Preview.png?auto=compress%2Cformat&fit=crop&crop=top&w=590&h=300&s=2ddc9d837a53794d00522bb4fa20844f" alt="Images" />
+          </a>
+          <div className="content shadow bg-light">
+            <h3>
+              <a href="case-details.html">LMS </a>
+            </h3>
+            <ul>
+              <li>
+                <a href="case-details.html">Design</a>
+              </li>
+              <li>
+                <a href="case-details.html">Development</a>{" "}
+              </li>
+            </ul>
+            <a href="case-details.html" className="more-btn">
+              <i className="bx bx-right-arrow-alt" />
+            </a>
+          </div>
+        </div>
+      </div>
+
+      <div className="col-lg-4 col-md-6">
+        <div className="build-item">
+          <a href="case-details.html">
+            <img src="https://themeforest.img.customer.envatousercontent.com/files/267632735/01_vividly_Preview.png?auto=compress%2Cformat&fit=crop&crop=top&w=590&h=300&s=fd54f835d482a1c0d28369cb0fe3b0ea" alt="Images" />
+          </a>
+          <div className="content shadow bg-light">
+            <h3>
+              <a href="case-details.html">Online Courses</a>
+            </h3>
+            <ul>
+              <li>
+                <a href="case-details.html">Design</a>
+              </li>
+              <li>
+                <a href="case-details.html">Social</a>{" "}
+              </li>
+            </ul>
+            <a href="case-details.html" className="more-btn">
+              <i className="bx bx-right-arrow-alt" />
+            </a>
+          </div>
+        </div>
+      </div>
+
+      <div className="col-lg-4 col-md-6 offset-lg-0 offset-md-3">
+        <div className="build-item">
+          <a href="case-details.html">
+            <img src="https://themeforest.img.customer.envatousercontent.com/files/267632735/01_vividly_Preview.png?auto=compress%2Cformat&fit=crop&crop=top&w=590&h=300&s=fd54f835d482a1c0d28369cb0fe3b0ea" alt="Images" />
+          </a>
+          <div className="content shadow bg-light">
+            <h3>
+              <a href="case-details.html">IT TECH Company</a>
+            </h3>
+            <ul>
+              <li>
+                <a href="case-details.html">UI/UX Design</a>
+              </li>
+              <li>
+                <a href="case-details.html">Research</a>
+              </li>
+            </ul>
+            <a href="case-details.html" className="more-btn">
+              <i className="bx bx-right-arrow-alt" />
+            </a>
+          </div>
+        </div>
+      </div>
+
+      <div className="col-lg-4 col-md-6">
+        <div className="build-item">
+          <a href="case-details.html">
+            <img src="https://themeforest.img.customer.envatousercontent.com/files/390510928/preview.png?auto=compress%2Cformat&fit=crop&crop=top&w=590&h=300&s=998c7568d57720eae3127cef3354e95d" alt="Images" />
           </a>
           <div className="content shadow bg-light">
             <h3>
@@ -145,7 +433,7 @@ export default function ServicesTab(){
       <div className="col-lg-4 col-md-6">
         <div className="build-item">
           <a href="case-details.html">
-            <img src="https://themeforest.img.customer.envatousercontent.com/files/378166127/01_preview.png?auto=compress%2Cformat&fit=crop&crop=top&w=590&h=300&s=76af8890d53c2f74ebdfb6da443e3bbd" alt="Images" />
+            <img src="https://themeforest.img.customer.envatousercontent.com/files/291621375/embe-preview/01_embe_preview.jpg?auto=compress%2Cformat&fit=crop&crop=top&w=590&h=300&s=3419557275fb4ef21a2473f07ed59427" alt="Images" />
           </a>
           <div className="content shadow bg-light">
             <h3>

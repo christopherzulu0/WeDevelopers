@@ -75,7 +75,7 @@ export default function Header() {
       icon: BriefcaseIcon,
     },
     {
-      name: "Web Development Development Blog",
+      name: "Web Development Blog",
       description: "Checkout all our development categories",
       href: "/WebDevelopment_Blog",
       icon: PresentationChartBarIcon,

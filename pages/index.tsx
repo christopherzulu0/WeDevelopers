@@ -18,7 +18,7 @@ import App_Integration from "../Components/App_Integration";
 import Team from "../Components/Team";
 import Contact from "../Components/Contact";
 import Footer from "../Components/Footer";
-
+// import Notification from './Notification'
 
 const Home: NextPage = () => {
   const navigation = [
@@ -85,6 +85,7 @@ const Home: NextPage = () => {
      <Team/>
      <Contact/>
      <Footer/>
+     {/* <Notification /> */}
       {/*End Pages that are called and Displayed heere */}
     </div>
   );
