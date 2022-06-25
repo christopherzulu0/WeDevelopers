@@ -1,8 +1,7 @@
 /* eslint-disable @next/next/no-img-element */
 import Header from "../Components/Header"
 import EventBlog_intro from "../Components/EventBlog_intro"
-import EventCommentModal from "./EventCommentModal"
-import { modalState } from "../atoms/modalAtom";
+
 import { useRecoilState } from "recoil";
 import Footer from "../Components/Footer"
 export default function EventBlog(){
@@ -141,7 +140,7 @@ export default function EventBlog(){
             </div>
             <div className="comments-wrap">
               <div className="comment-title">
-                <h3 className="title">Comments (02) {isOpen &&<EventCommentModal></EventCommentModal>}</h3>
+                <h3 className="title">Comments (02)</h3>
               </div>
               <ul className="comment-list">
                 <li>
