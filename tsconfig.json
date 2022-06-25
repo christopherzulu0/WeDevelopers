@@ -15,6 +15,6 @@
     "jsx": "preserve",
     "incremental": true
   },
-  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", "pages/_document.js", "firebase.ts"],
+  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", "pages/_document.js", "firebase.ts", "Components/Header.js"],
   "exclude": ["node_modules"]
 }

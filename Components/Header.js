@@ -18,7 +18,7 @@ import {
   XIcon,
 } from "@heroicons/react/outline";
 import { ChevronDownIcon } from "@heroicons/react/solid";
-
+// import AuthHeader from "../Components/AuthHeader";
 export default function Header() {
   const services = useRef(null);
 
@@ -75,7 +75,7 @@ export default function Header() {
       icon: BriefcaseIcon,
     },
     {
-      name: "Web Development Blog",
+      name: "Web Development Development Blog",
       description: "Checkout all our development categories",
       href: "/WebDevelopment_Blog",
       icon: PresentationChartBarIcon,
@@ -151,6 +151,8 @@ export default function Header() {
   }
 
   return (
+    <>
+    {/* <AuthHeader/> */}
     <Popover className="relative bg-white shadow-lg  position-top header">
       <div className="max-w-7xl mx-auto px-4 sm:px-6">
         <div className=" flex justify-between items-center border-b-2 border-gray-100 py-6 md:justify-start md:space-x-10">
@@ -556,5 +558,7 @@ export default function Header() {
         </Popover.Panel>
       </Transition>
     </Popover>
+    
+</>
   );
 }

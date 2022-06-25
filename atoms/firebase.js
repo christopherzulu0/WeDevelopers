@@ -9,13 +9,14 @@ import { getStorage } from "firebase/storage";
 // Your web app's Firebase configuration
 // For Firebase JS SDK v7.20.0 and later, measurementId is optional
 const firebaseConfig = {
-  apiKey: "AIzaSyBY9lmghPAyZh7J2x7_-R23W9v90244Yas",
-  authDomain: "chat-community-for-oniontable.firebaseapp.com",
-  projectId: "chat-community-for-oniontable",
-  storageBucket: "chat-community-for-oniontable.appspot.com",
-  messagingSenderId: "426991638612",
-  appId: "1:426991638612:web:bc5e034c0cc0b62e7075c1",
-  measurementId: "G-0R53YGKCBK"
+  apiKey: "AIzaSyDc7C0X456ehA09DBCvrDERQXT5d1GiKp0",
+  authDomain: "wedevelopers-bc3c3.firebaseapp.com",
+  projectId: "wedevelopers-bc3c3",
+  storageBucket: "wedevelopers-bc3c3.appspot.com",
+  messagingSenderId: "266715009295",
+  appId: "1:266715009295:web:b4f32ed545f91e4765ee7a",
+  measurementId: "G-3WNTQLZ3H2"
+
 };
 
 // Initialize Firebase

@@ -9,15 +9,16 @@ import Image from "next/image";
 import Header from "../Components/Header";
 import Intro_Page from "../Components/Intro_Page";
 import Experience from "../Components/Experience";
-import Services from "../Components/Services";
+import Services_Data from "../Components/Services_Data";
 import Project_Portfolio from "../Components/Project_Portfolio";
 import Clients_Say from "../Components/Clients_Say";
-import Events from "../Components/Events";
-import Award_Winners from "../Components/Award_Winners";
+import Events_Data from "../Components/Events_Data";
+import Award_Winners_Data from "../Components/Award_Winners_Data";
 import App_Integration from "../Components/App_Integration";
-import Team from "../Components/Team";
+import Team_Data from "../Components/Team_Data";
 import Contact from "../Components/Contact";
 import Footer from "../Components/Footer";
+
 
 
 const Home: NextPage = () => {
@@ -73,16 +74,19 @@ const Home: NextPage = () => {
       <Script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js"></Script>
 
      {/* Pages are called and Displayed heere */}
+  
      <Header/>
+   
      <Intro_Page/>
+
      <Experience/>
-     <Services/>
+     <Services_Data/>
      <Project_Portfolio/>
      <Clients_Say/>
-     <Events/>
-     <Award_Winners/>
+     <Events_Data/>
+     <Award_Winners_Data/>
      <App_Integration/>
-     <Team/>
+     <Team_Data/>
      <Contact/>
      <Footer/>
      {/* <Notification /> */}
