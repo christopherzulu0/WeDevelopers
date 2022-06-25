@@ -1,11 +1,9 @@
 /* eslint-disable @next/next/no-img-element */
 import Header from "../Components/Header"
 import EventBlog_intro from "../Components/EventBlog_intro"
-
-import { useRecoilState } from "recoil";
 import Footer from "../Components/Footer"
 export default function EventBlog(){
-  const [isOpen, setIsOpen] = useRecoilState(modalState);
+
     return(
         <>
         <Header/>
