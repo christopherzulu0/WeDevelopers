@@ -1,7 +1,7 @@
 /* eslint-disable @next/next/no-img-element */
 /* This Header requires Tailwind CSS v2.0+ */
 import { Fragment, useRef } from "react";
-
+import Link from "next/link"
 import { Popover, Transition } from "@headlessui/react";
 import {
   BookmarkAltIcon,
@@ -153,13 +153,15 @@ export default function Header() {
   return (
     <>
     {/* <AuthHeader/> */}
-    <Popover className="relative bg-white shadow-lg  position-top header">
+    <Popover className="relative bg-white shadow-lg  position-top header ">
       <div className="max-w-7xl mx-auto px-4 sm:px-6">
         <div className=" flex justify-between items-center border-b-2 border-gray-100 py-6 md:justify-start md:space-x-10">
           <div className="flex justify-start lg:w-0 lg:flex-1 ">
             <a href="#">
               <span className="sr-only">Workflow</span>
+              <Link href="/">
               <img className="h-8 w-auto sm:h-10" src="/logo.png" alt="" />
+              </Link>
             </a>
           </div>
           <div className="-mr-2 -my-2 md:hidden">

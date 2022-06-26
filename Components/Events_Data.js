@@ -2,11 +2,12 @@ import { useEffect, useState } from "react";
 import { onSnapshot, collection, query, orderBy } from "@firebase/firestore";
 import { db } from "../firebase";
 import Events from "./Events";
+import Link from "next/link"
 // import EventBlog from "../pages/EventBlog";
-import { useRouter } from "next/router";
-export default function Event_Data(){
+
+export default function Event_Data({EventPage,id}){
     const [posts, setPosts] = useState([]);
-    const router = useRouter();
+
     useEffect(
         () =>
           onSnapshot(
@@ -15,17 +16,22 @@ export default function Event_Data(){
               setPosts(snapshot.docs);
             }
           ),
-        [db]
+        [id]
       );
     return(
         <>
-              <div className="blog-area pt-90 pb-70 bg-light">
+        
+            
+              <div className="blog-area pt-90 pb-70 bg-light"
+              
+              >
         <div className="container ">
           <div className="section-title text-center">
             <h2>Events</h2>
           </div>
+         
           <div className="row pt-45"
-        //   onClick={() => router.push(`/${EventBlog}`)}
+        //   
           >
         {posts.map((post) => (
           <Events key={post.id} id={post.id} post={post.data()} />
@@ -33,7 +39,7 @@ export default function Event_Data(){
         </div>
         </div>
         </div>
-      
+     
         </>
     )
 }

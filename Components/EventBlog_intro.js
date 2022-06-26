@@ -27,14 +27,14 @@ export default function EventBlog_intro() {
             <p>
               Read the event details here.
             </p>
-            <div className="banner-btn">
+            {/* <div className="banner-btn">
               <a
                 href="about.html"
                 className="default-btn btn-bg-two border-radius-5"
               >
                 Enquire <i className="bx bx-chevron-right" />
               </a>
-            </div>
+            </div> */}
           </div>
         </div>
         <div className="banner-six-shape">

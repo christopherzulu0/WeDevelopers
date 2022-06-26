@@ -32,7 +32,7 @@ const Home: NextPage = () => {
         <title>WeDevelopers</title>
         <meta name="description" content="Generated WeDevelopers" />
         <link rel="stylesheet" href="assets/css/bootstrap.min.css" />
-
+         
         <link rel="stylesheet" href="assets/css/animate.min.css" />
 
         <link
@@ -83,7 +83,7 @@ const Home: NextPage = () => {
      <Services_Data/>
      <Project_Portfolio/>
      <Clients_Say/>
-     <Events_Data/>
+     <Events_Data EventPage={undefined} id={undefined}/>
      <Award_Winners_Data/>
      <App_Integration/>
      <Team_Data/>
