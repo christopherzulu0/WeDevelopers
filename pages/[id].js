@@ -187,9 +187,9 @@ export default function EventPage(){
                       <div className="block ml-2">
                       <RWebShare
         data={{
-          text: "Like humans, flamingos make friends for life",
-          url: "https://on.natgeo.com/2zHaNup",
-          title: "Flamingos",
+          text: "You envision,we develop",
+          url: "https://we-developers.vercel.app/",
+          title: "WeDevelopers",
         }}
         onClick={() => console.log("shared successfully!")}
       >
