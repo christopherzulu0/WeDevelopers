@@ -158,10 +158,7 @@ export default function EventPage(){
             </div>
             <div className="dlkio_last">
               <div className="ed_view_link">
-                <a href="#" className="btn theme-bg enroll-btn">
-                  Get Membership
-                  <i className="ti-angle-right" />
-                </a>
+               
                 <RWebShare
         data={{
           text: "You envision,we develop",
@@ -246,18 +243,20 @@ export default function EventPage(){
   <TabPanels>
     <TabPanel>
      <>
-     <p className="text-muted"> 
+     <h6 className="text-muted"> 
       At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio.
 
 Aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto. Sam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.
-      </p><br/>
+      </h6><br/>
       <h6>Requirements</h6>
 											<ul className="simple-list p-0 text-muted">
+                        <h6>
 												<li>At vero eos et accusamus et iusto odio dignissimos ducimus</li>
 												<li>At vero eos et accusamus et iusto odio dignissimos ducimus</li>
 												<li>At vero eos et accusamus et iusto odio dignissimos ducimus</li>
 												<li>At vero eos et accusamus et iusto odio dignissimos ducimus</li>
 												<li>At vero eos et accusamus et iusto odio dignissimos ducimus</li>
+                        </h6>
 											</ul><br/>
 
  {/* <Stack direction='row'>
@@ -278,7 +277,7 @@ Aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto. Sam vo
     <h2>
       <AccordionButton>
         <Box flex='1' textAlign='left'>
-          Section 1 
+        <h6>Section 1 </h6>
         </Box>
         <AccordionIcon />
       </AccordionButton>
@@ -286,12 +285,15 @@ Aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto. Sam vo
     <AccordionPanel pb={4}>
     <div className="card-body pl-3 pr-3">
 														<ul className="lectures_lists">
+                            <h6>
 															<li className="complete"><div className="lectures_lists_title"><i className="fas fa-check dios"></i></div>Web Designing Beginner<span className="cls_timing">40:20</span></li>
 															<li className="progressing"><div className="lectures_lists_title"><i className="fas fa-play dios"></i></div>Startup Designing with HTML5 & CSS3<span className="cls_timing">20:12</span></li>
 															<li className="unview"><div className="lectures_lists_title"><i className="fa fa-lock dios lock"></i></div>How To Call Google Map iFrame<span className="cls_timing">32:10</span></li>
 															<li className="unview"><div className="lectures_lists_title"><i className="fa fa-lock dios lock"></i></div>Create Drop Down Navigation Using CSS3<span className="cls_timing">25:05</span></li>
 															<li className="unview"><div className="lectures_lists_title"><i className="fa fa-lock dios lock"></i></div>How to Create Sticky Navigation Using JS<span className="cls_timing">18:10</span></li>
-														</ul>
+                              </h6>
+                          	</ul>
+                            
 													</div>
     </AccordionPanel>
   </AccordionItem>
@@ -300,7 +302,7 @@ Aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto. Sam vo
     <h2>
       <AccordionButton>
         <Box flex='1' textAlign='left'>
-          Section 2 
+        <h6>Section 2 </h6>
         </Box>
         <AccordionIcon />
       </AccordionButton>
@@ -308,12 +310,14 @@ Aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto. Sam vo
     <AccordionPanel pb={4}>
     <div className="card-body pl-3 pr-3">
 														<ul className="lectures_lists">
+                            <h6>
 															<li className="complete"><div className="lectures_lists_title"><i className="fas fa-check dios"></i></div>Web Designing Beginner<span className="cls_timing">40:20</span></li>
 															<li className="progressing"><div className="lectures_lists_title"><i className="fas fa-play dios"></i></div>Startup Designing with HTML5 & CSS3<span className="cls_timing">20:12</span></li>
 															<li className="unview"><div className="lectures_lists_title"><i className="fa fa-lock dios lock"></i></div>How To Call Google Map iFrame<span className="cls_timing">32:10</span></li>
 															<li className="unview"><div className="lectures_lists_title"><i className="fa fa-lock dios lock"></i></div>Create Drop Down Navigation Using CSS3<span className="cls_timing">25:05</span></li>
 															<li className="unview"><div className="lectures_lists_title"><i className="fa fa-lock dios lock"></i></div>How to Create Sticky Navigation Using JS<span className="cls_timing">18:10</span></li>
-														</ul>
+                              </h6>
+                            </ul>
 													</div>
     </AccordionPanel>
   </AccordionItem>
@@ -322,7 +326,7 @@ Aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto. Sam vo
     <h2>
       <AccordionButton>
         <Box flex='1' textAlign='left'>
-          Section 3 
+        <h6>Section 3</h6>
         </Box>
         <AccordionIcon />
       </AccordionButton>
@@ -330,12 +334,14 @@ Aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto. Sam vo
     <AccordionPanel pb={4}>
     <div className="card-body pl-3 pr-3">
 														<ul className="lectures_lists">
+                            <h6>
 															<li className="unview"><div className="lectures_lists_title"><i className="fa fa-lock dios lock"></i></div>How To Call Google Map iFrame<span className="cls_timing">32:10</span></li>
 															<li className="unview"><div className="lectures_lists_title"><i className="fa fa-lock dios lock"></i></div>How To embed video in html5 banner?<span className="cls_timing">32:10</span></li>
 															<li className="unview"><div className="lectures_lists_title"><i className="fa fa-lock dios lock"></i></div>How to use SVG card in html5?<span className="cls_timing">32:10</span></li>
 															<li className="unview"><div className="lectures_lists_title"><i className="fa fa-lock dios lock"></i></div>Create Drop Down Navigation Using CSS3<span className="cls_timing">25:05</span></li>
 															<li className="unview"><div className="lectures_lists_title"><i className="fa fa-lock dios lock"></i></div>How to Create Sticky Navigation Using JS<span className="cls_timing">18:10</span></li>
-														</ul>
+                              </h6>
+                            </ul>
 													</div>
     </AccordionPanel>
   </AccordionItem>
@@ -344,7 +350,7 @@ Aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto. Sam vo
     <h2>
       <AccordionButton>
         <Box flex='1' textAlign='left'>
-          Section 4 
+        <h6>Section 4 </h6>
         </Box>
         <AccordionIcon />
       </AccordionButton>
@@ -352,12 +358,14 @@ Aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto. Sam vo
     <AccordionPanel pb={4}>
     <div className="card-body pl-3 pr-3">
 														<ul className="lectures_lists">
+                            <h6>
 															<li className="unview"><div className="lectures_lists_title"><i className="fa fa-lock dios lock"></i></div>How To Call Google Map iFrame<span className="cls_timing">32:10</span></li>
 															<li className="unview"><div className="lectures_lists_title"><i className="fa fa-lock dios lock"></i></div>How To embed video in html5 banner?<span className="cls_timing">32:10</span></li>
 															<li className="unview"><div className="lectures_lists_title"><i className="fa fa-lock dios lock"></i></div>How to use SVG card in html5?<span className="cls_timing">32:10</span></li>
 															<li className="unview"><div className="lectures_lists_title"><i className="fa fa-lock dios lock"></i></div>Create Drop Down Navigation Using CSS3<span className="cls_timing">25:05</span></li>
 															<li className="unview"><div className="lectures_lists_title"><i className="fa fa-lock dios lock"></i></div>How to Create Sticky Navigation Using JS<span className="cls_timing">18:10</span></li>
-														</ul>
+                              </h6>
+                          	</ul>
 													</div>
     </AccordionPanel>
   </AccordionItem>
@@ -426,7 +434,7 @@ Aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto. Sam vo
         
         </div>
         {/* Sidebar */}
-        <div className="col-lg-4 col-md-12 order-lg-last">
+        <div className="col-lg-4 col-md-12 order-lg-last z-0">
           {/* Course info */}
           <div className="ed_view_box style_3 stick_top">
             <div className="property_video sm">

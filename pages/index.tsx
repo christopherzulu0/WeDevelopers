@@ -33,7 +33,7 @@ const Home: NextPage = () => {
         <title>WeDevelopers</title>
         <meta name="description" content="Generated WeDevelopers" />
         <link rel="stylesheet" href="assets/css/bootstrap.min.css" />
-         
+        
         <link rel="stylesheet" href="assets/css/animate.min.css" />
 
         {/* <link
