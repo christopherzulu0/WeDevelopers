@@ -26,27 +26,27 @@ export default function Experience(){
       <div className="col-lg-6">
         <div className="about-content ml-25">
           <div className="section-title">
-            <span className="sp-color2">15 Years of Experience</span>
+            <h6 className="sp-color2">15 Years of Experience</h6>
             <h2>Right Partner for Software Innovation</h2>
-            <p>
+            <h6>
             We bring great websites and software to you to build a lasting profitable business.
-            </p>
+            </h6>
           </div>
           <div className="row">
             <div className="col-lg-6 col-md-6">
               <ul className="about-list text-start">
                 <li>
                   <i className="bx bxs-check-circle" />
-                  Cost of IT consultation is affordable.
+                  <h6 className='text-muted'>Cost of IT consultation is affordable.</h6>
                 </li>
                 <li>
                   <i className="bx bxs-check-circle" />
                   
-                  We develop and design, according to customer's need.
+                  <h6 className='text-muted'>We develop and design, according to customer's need.</h6>
                 </li>
                 <li>
                   <i className="bx bxs-check-circle" />
-                  24/7 Customer support.
+                  <h6 className='text-muted'>24/7 Customer support.</h6>
                 </li>
               </ul>
             </div>
@@ -54,22 +54,22 @@ export default function Experience(){
               <ul className="about-list text-start about-list-2">
                 <li>
                   <i className="bx bxs-check-circle" />
-                  We deliver our services in time.
+                  <h6 className='text-muted'>We deliver our services in time.</h6>
                 </li>
                 <li>
                   <i className="bx bxs-check-circle" />
-                  Easy to Customer Services
+                  <h6 className='text-muted'>Easy to Customer Services</h6>
                 </li>
                 <li>
                   <i className="bx bxs-check-circle" />
-                  Good Quality Products Services
+                  <h6 className='text-muted'>Good Quality Products Services</h6>
                 </li>
               </ul>
             </div>
           </div>
-          <p className="about-content-text text-black">
+          <h6 className="about-content-text text-muted">
             We work to meet customer requirements,needs and demand.And we also make sure to deliver to client satisfactional and in time with quality results.
-          </p>
+          </h6>
         </div>
       </div>
     </div>
