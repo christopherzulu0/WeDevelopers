@@ -11,7 +11,7 @@ export default function Events({id,post}){
             <div className="col-lg-4 col-md-6"
               onClick={() => router.push(`/${id}`)}
             >
-              <div className="blog-card">
+              <div className="blog-card shadow-lg bg-light">
                 <div className="blog-img">
                   <a>
                

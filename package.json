@@ -19,12 +19,14 @@
     "emoji-mart": "^5.1.0",
     "firebase": "^9.8.1",
     "framer-motion": "^4",
+    "localforage": "^1.10.0",
     "moment": "^2.29.3",
     "next": "12.1.6",
     "next-auth": "^4.6.1",
     "react": "18.1.0",
     "react-bootstrap": "^2.4.0",
     "react-chakra-slide-show": "^1.0.11",
+    "react-countup": "^6.3.0",
     "react-dom": "18.1.0",
     "react-firebase-hooks": "^5.0.3",
     "react-hot-toast": "^2.2.0",
@@ -35,6 +37,7 @@
     "react-text-transition": "^2.0.0",
     "react-web-share": "^1.1.6",
     "recoil": "^0.7.3-alpha.2",
+    "select2": "^4.1.0-rc.0",
     "swiper": "^8.2.3"
   },
   "devDependencies": {

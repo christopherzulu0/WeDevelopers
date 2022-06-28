@@ -1,8 +1,12 @@
+/* eslint-disable @next/next/no-css-tags */
+/* eslint-disable @next/next/no-img-element */
 import { useEffect, useState } from "react";
 import { onSnapshot, collection, query, orderBy } from "@firebase/firestore";
 import { db } from "../firebase";
 import Events from "./Events";
 import Link from "next/link"
+import Head from "next/head"
+import CountUp from 'react-countup';
 // import EventBlog from "../pages/EventBlog";
 
 export default function Event_Data({EventPage,id}){
@@ -21,6 +25,9 @@ export default function Event_Data({EventPage,id}){
     return(
         <>
         
+
+
+
             
               <div className="blog-area pt-90 pb-70 bg-light"
               

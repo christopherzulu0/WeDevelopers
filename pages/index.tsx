@@ -17,6 +17,7 @@ import Award_Winners_Data from "../Components/Award_Winners_Data";
 import App_Integration from "../Components/App_Integration";
 import Team_Data from "../Components/Team_Data";
 import Contact from "../Components/Contact";
+
 import Footer from "../Components/Footer";
 
 
@@ -35,10 +36,10 @@ const Home: NextPage = () => {
          
         <link rel="stylesheet" href="assets/css/animate.min.css" />
 
-        <link
+        {/* <link
           href="https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,400;0,700;1,700&display=swap"
           rel="stylesheet"
-        />
+        /> */}
         <link
           rel="stylesheet"
           href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"
@@ -88,6 +89,7 @@ const Home: NextPage = () => {
      <App_Integration/>
      <Team_Data/>
      <Contact/>
+   
      <Footer/>
      {/* <Notification /> */}
       {/*End Pages that are called and Displayed heere */}
