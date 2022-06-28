@@ -233,7 +233,7 @@ html body .db {
   border-radius: 100%; }
 
 .theme-bg{
-	background:#03b97c !important;
+	background:#00638D !important;
 }
 .theme-light{
 	background:rgba(3, 185, 124,0.1) !important;
@@ -5578,7 +5578,7 @@ ul.edu_list.third li {
     height: 54px;
     font-weight: 600;
     border-radius: 0.4rem;
-    color: #ffffff !important;
+    color: #fff !important;
     align-items: center;
     justify-content: center;
 }

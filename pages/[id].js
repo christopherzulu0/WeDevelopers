@@ -491,9 +491,9 @@ Aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto. Sam vo
                 </li>
               </ul>
             </div>
-            <div className="ed_view_link">
+            <div className="ed_view_link text-light" >
              
-              <a className="btn theme-bg enroll-btn">
+              <a className="btn theme-bg enroll-btn " >
                 Contact Us
                 <i className="ti-angle-right" />
               </a>
