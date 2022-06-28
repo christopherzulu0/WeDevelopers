@@ -60,6 +60,7 @@ const Home: NextPage = () => {
         <link rel="stylesheet" href="assets/css/style.css" />
         <link rel="stylesheet" href="assets2/css/style.css"></link>
         <link rel="stylesheet" href="assets/css/responsive.css" />
+        <link href="assets5/css/styles.css" rel="stylesheet"></link>
         <link rel="icon" href="/logo1.png" />
       </Head>
 
