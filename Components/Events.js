@@ -47,9 +47,7 @@ export default function Events({id,post}){
                      {post?.Name}
                     </a>
                   </h3>
-                  <p>
-                    {post?.description}
-                  </p>
+                 
                   <a 
                    
                   className="read-btn">
