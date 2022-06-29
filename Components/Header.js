@@ -22,12 +22,12 @@ import { ChevronDownIcon } from "@heroicons/react/solid";
 export default function Header() {
   const services = useRef(null);
 
-  const scrollToSection = (elementRef) => {
-    window.scrollTo({
-      top: elementRef.current.offsetTop,
-      behavior: "smooth",
-    });
-  };
+  // const scrollToSection = (elementRef) => {
+  //   window.scrollTo({
+  //     top: elementRef.current.offsetTop,
+  //     behavior: "smooth",
+  //   });
+  // };
 
   // discover section on nav
   const Discover = [
@@ -206,7 +206,7 @@ export default function Header() {
                             <a
                               key={item.name}
                               className="-m-3 p-3 flex items-start rounded-lg hover:bg-gray-50"
-                              onClick={() => scrollToSection(item.href)}
+                              // onClick={() => scrollToSection(item.href)}
                             >
                               <item.icon
                                 className="flex-shrink-0 h-6 w-6 text-indigo-600"
