@@ -23,7 +23,7 @@ export default function CompanyAwards(){
                         <div className="dro_142">
                           <h6 >
                             Completed Projects <br/>
-                            <CountUp end={20} duration={5} />
+                            <CountUp end={20} duration={10} />
                           </h6>
                          
                         </div>
@@ -37,7 +37,7 @@ export default function CompanyAwards(){
                         <div className="dro_142">
                           <h6>
                             Client Satisfaction<br/>
-                            <CountUp end={100} duration={5} />
+                            <CountUp end={100} duration={10} />
                           </h6>
                         </div>
                       </div>
@@ -50,7 +50,7 @@ export default function CompanyAwards(){
                         <div className="dro_142">
                           <h6>
                            Awards<br/>
-                           <CountUp end={5} duration={5} />
+                           <CountUp end={5} duration={10} />
                           </h6>
                         </div>
                       </div>
@@ -63,7 +63,7 @@ export default function CompanyAwards(){
                         <div className="dro_142">
                           <h6>
                            Expert Members<br/>
-                           <CountUp end={3} duration={5} />+
+                           <CountUp end={3} duration={10} />+
                           </h6>
                         </div>
                       </div>
