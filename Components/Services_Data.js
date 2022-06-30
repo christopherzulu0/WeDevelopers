@@ -7,7 +7,7 @@ import { db } from "../firebase";
 import Services from "./Services";
 // import EventBlog from "../pages/EventBlog";
 import Head from "next/head"
-import CountUp from "react-countup";
+
 import { useRouter } from "next/router";
 export default function Services_Data(){
     const [services, setServices] = useState([]);
@@ -694,61 +694,7 @@ export default function Services_Data(){
       <img src="images2/shape/shape4.png" alt="image" />
     </div>
   </section>
-  <section className="fun-facts-area ptb-100">
-    <div className="container">
-      <div className="row">
-        <div className="col-lg-3 col-sm-6">
-          <div className="single-fun-facts">
-            <h3>
-              <span className="odometer">
-                <span />
-              </span>
-              <span className="sign-icon"><CountUp end={100} duration={5} />+</span>
-            </h3>
-            <p>Project Completed</p>
-            <div className="back-text">P</div>
-          </div>
-        </div>
-        <div className="col-lg-3 col-sm-6">
-          <div className="single-fun-facts">
-            <h3>
-              <span className="odometer">
-                <span />
-              </span>
-              <span className="sign-icon"><CountUp end={50} duration={5} />%</span>
-            </h3>
-            <p>Client Satisfaction</p>
-            <div className="back-text">C</div>
-          </div>
-        </div>
-        <div className="col-lg-3 col-sm-6">
-          <div className="single-fun-facts">
-            <h3>
-              <span className="odometer">
-                <span />
-              </span>
-              <span className="sign-icon"><CountUp end={5} duration={5} />%</span>
-            </h3>
-            <p>Awards</p>
-            <div className="back-text">C</div>
-          </div>
-        </div>
-        
-        <div className="col-lg-3 col-sm-6">
-          <div className="single-fun-facts">
-            <h3>
-              <span className="odometer">
-                <span />
-              </span>
-              <span className="sign-icon"><CountUp end={8} duration={5}/>+</span>
-            </h3>
-            <p>Expert Members</p>
-            <div className="back-text">E</div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </section>
+
  
 
 </div>

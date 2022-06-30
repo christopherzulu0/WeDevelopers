@@ -7,6 +7,7 @@ import type { AppProps } from "next/app";
 import Script from 'next/script';
 import SSRProvider from 'react-bootstrap/SSRProvider';
 import Head from "next/head"
+
 function MyApp({ Component, pageProps }: AppProps) {
   
   return (
@@ -39,10 +40,12 @@ height="0" width="0" style={{display:"none",visibility:"hidden"}}></iframe></nos
         `}
       </Script>
     </>
+ 
     <RecoilRoot>
        <ChakraProvider>
        <SSRProvider>
         <Component {...pageProps} />
+      
         </SSRProvider>
       </ChakraProvider>
       </RecoilRoot>

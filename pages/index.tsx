@@ -17,7 +17,8 @@ import Award_Winners_Data from "../Components/Award_Winners_Data";
 import App_Integration from "../Components/App_Integration";
 import Team_Data from "../Components/Team_Data";
 import Contact from "../Components/Contact";
-
+// import Technology from "../Components/Technology"
+import CompanyAwards from "../Components/CompanyAwards"
 import Footer from "../Components/Footer";
 
 
@@ -80,14 +81,15 @@ const Home: NextPage = () => {
      <Header/>
    
      <Intro_Page/>
-
+     <CompanyAwards/>
      <Experience/>
      <Services_Data/>
      <Project_Portfolio/>
      <Clients_Say/>
      <Events_Data EventPage={undefined} id={undefined}/>
      <Award_Winners_Data/>
-     <App_Integration/>
+    
+     {/* <Technology/> */}
      <Team_Data/>
      <Contact/>
    

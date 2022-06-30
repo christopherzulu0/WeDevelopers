@@ -59,7 +59,7 @@ export default function WebDevelopment_Blog(){
       <Script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js"></Script>
         <Header/>
         <WebDevelopment_Intro/>
-        <WebDevelopment_Tabs/>
+        {/* <WebDevelopment_Tabs/> */}
         <Footer />
         </>
     )
