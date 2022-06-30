@@ -15,7 +15,7 @@ import Clients_Say from "../Components/Clients_Say";
 import Events_Data from "../Components/Events_Data";
 import Award_Winners_Data from "../Components/Award_Winners_Data";
 import App_Integration from "../Components/App_Integration";
-import Team_Data from "../Components/Team_Data";
+// import Team_Data from "../Components/Team_Data";
 import Contact from "../Components/Contact";
 // import Technology from "../Components/Technology"
 import CompanyAwards from "../Components/CompanyAwards"
@@ -90,7 +90,7 @@ const Home: NextPage = () => {
      <Award_Winners_Data/>
     
      {/* <Technology/> */}
-     <Team_Data/>
+     {/* <Team_Data/> */}
      <Contact/>
    
      <Footer/>

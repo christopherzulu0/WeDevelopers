@@ -70,30 +70,60 @@ export default function Services_Data(){
             <h6 className="sub-title">Digital Marketing</h6>
             <h2>Creative solutions, creative results</h2>
             <p>
-              We believe brand interaction is key to communication. Real
-              innovations and positive customer experience are the heart of
-              successful communication.
+              We advertise and deliver through digital channels such as search engines, websites, social media, email, and mobile apps. Using these online media channels, digital marketing is the method by which companies endorse goods, services, and brands.
+              <br/>
+              Some of the digital marketing platforms we use are:
             </p>
             <div className="features-text">
               <h6>
-                 <i className="bi bi-check-all" /> Core Development
+                 <i className="bi bi-check-all" /> Content marketing
                 {/* */}
               </h6>
-              <p>
-                No fake products and services. The customer is king, their lives
-                and needs are the inspiration.
-              </p>
+        
+            </div>
+            <div className="features-text " >
+              <h6 >
+                 <i className="bi bi-check-all" /> Search engine marketing
+                {/* */}
+              </h6>
             </div>
             <div className="features-text">
               <h6 >
-                 <i className="bi bi-check-all" /> Define Your Choices
+                 <i className="bi bi-check-all" /> Display Advertising
                 {/* */}
               </h6>
-              <p>
-                No fake products and services. The customer is king, their lives
-                and needs are the inspiration.
-              </p>
             </div>
+            <div className="features-text">
+              <h6 >
+                 <i className="bi bi-check-all" /> Mobile Marketing
+                {/* */}
+              </h6>
+            </div>
+            <div className="features-text">
+              <h6 >
+                 <i className="bi bi-check-all" />  Social Media Marketing
+                {/* */}
+              </h6>
+            </div>
+            <div className="features-text">
+              <h6 >
+                 <i className="bi bi-check-all" /> Email Marketing
+                {/* */}
+              </h6>
+            </div>
+            <div className="features-text">
+              <h6 >
+                 <i className="bi bi-check-all" /> Influencer Marketing
+                {/* */}
+              </h6>
+            </div>
+            <div className="features-text">
+              <h6 >
+                 <i className="bi bi-check-all" /> Affiliate Marketing
+                {/* */}
+              </h6>
+            </div>
+
           </div>
         </div>
         <div className="overview-image">
@@ -158,6 +188,7 @@ export default function Services_Data(){
           </div>
         </div>
       </div>
+
       <div className="overview-box">
         <div className="overview-content">
           <div className="content">
@@ -190,6 +221,7 @@ export default function Services_Data(){
             </div>
           </div>
         </div>
+        
         <div className="overview-image">
           <div className="image">
             <img src="images2/features-image/feature-image1.png" alt="image" />
