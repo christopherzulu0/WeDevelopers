@@ -20,7 +20,7 @@ import Contact from "../Components/Contact";
 // import Technology from "../Components/Technology"
 import CompanyAwards from "../Components/CompanyAwards"
 import Footer from "../Components/Footer";
-
+import "bootstrap-icons/font/bootstrap-icons.css";
 
 
 const Home: NextPage = () => {

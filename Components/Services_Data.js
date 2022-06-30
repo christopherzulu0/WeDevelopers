@@ -119,40 +119,40 @@ export default function Services_Data(){
             </p>
             <ul className="features-list">
               <li>
-                <span>
-                  <i className="fas fa-check" /> Recommender systems
+                <h6 className="text-muted">
+                   <i className="bi bi-check-all" /> Recommender systems
                   {/* */}
-                </span>
+                </h6>
               </li>
               <li>
-                <span>
-                  <i className="fas fa-check" /> Demand prediction
+                <h6 className="text-muted">
+                   <i className="bi bi-check-all" /> Demand prediction
                   {/* */}
-                </span>
+                </h6 >
               </li>
               <li>
-                <span>
-                  <i className="fas fa-check" /> Omnichannel analytics
+                <h6 className="text-muted">
+                   <i className="bi bi-check-all" /> Omnichannel analytics
                   {/* */}
-                </span>
+                </h6>
               </li>
               <li>
-                <span>
-                  <i className="fas fa-check" /> Lead generation
+                <h6 className="text-muted">
+                   <i className="bi bi-check-all" /> Lead generation
                   {/* */}
-                </span>
+                </h6>
               </li>
               <li>
-                <span>
-                  <i className="fas fa-check" /> Dedicated Developers
+                <h6 className="text-muted">
+                   <i className="bi bi-check-all" /> Dedicated Developers
                   {/* */}
-                </span>
+                </h6 >
               </li>
               <li>
-                <span>
-                  <i className="fas fa-check" /> 24/7 Support
+                <h6 className="text-muted">
+                   <i className="bi bi-check-all" /> 24/7 Support
                   {/* */}
-                </span>
+                </h6 >
               </li>
             </ul>
           </div>
@@ -204,49 +204,53 @@ export default function Services_Data(){
         </div>
         <div className="overview-content">
           <div className="content right-content">
-            <span className="sub-title">SEO Consultancy</span>
-            <h2>We make smart, good-looking things</h2>
+       
+            <h6 
+            className="text-center"
+            style={{fontSize:"30px"}}>
+              
+  IT Consultancy</h6>
             <p>
-              We believe brand interaction is key to communication. Real
-              innovations and positive customer experience are the heart of
-              successful communication.
+              We Give advisory services that help clients, assess different technology strategies , and in doing so, they align their technology startegies with business or process strategies.
+              In this service, we:
             </p>
             <ul className="features-list">
               <li>
-                <span>
-                  <i className="fas fa-check" /> Recommender systems
+                <h6 className="text-muted">
+                <i className="bi bi-check-all" /> Check software quality
                   {/* */}
-                </span>
+                </h6>
               </li>
               <li>
-                <span>
-                  <i className="fas fa-check" /> Demand prediction
+                <h6 className="text-muted">
+                   <i className="bi bi-check-all" /> Consults best practices
                   {/* */}
-                </span>
+                </h6>
               </li>
               <li>
-                <span>
-                  <i className="fas fa-check" /> Omnichannel analytics
+                <h6 className="text-muted">
+                <i className="bi bi-check-all" />
+                  Help choose Tech stack
                   {/* */}
-                </span>
+                </h6>
               </li>
               <li>
-                <span>
-                  <i className="fas fa-check" /> Lead generation
+                <h6 className="text-muted">
+                   <i className="bi bi-check-all" /> Gather technical requirements
                   {/* */}
-                </span>
+                </h6>
               </li>
               <li>
-                <span>
-                  <i className="fas fa-check" /> Dedicated Developers
+                <h6  className="text-muted">
+                   <i className="bi bi-check-all" /> Help build a developed team
                   {/* */}
-                </span>
+                </h6>
               </li>
               <li>
-                <span>
-                  <i className="fas fa-check" /> 24/7 Support
+                <h6  className="text-muted">
+                   <i className="bi bi-check-all" /> Suggests improvements
                   {/* */}
-                </span>
+                </h6>
               </li>
             </ul>
           </div>
