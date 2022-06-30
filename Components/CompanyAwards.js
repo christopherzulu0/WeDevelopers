@@ -16,14 +16,18 @@ export default function CompanyAwards(){
                 <div className="part_rcp">
                   <ul>
                     <li>
-                      <div className="dro_140">
+                      <div className="dro_140"  >
                         <div className="dro_141" style={{border:"none"}}>
                           <img src="https://cdn-icons-png.flaticon.com/128/1705/1705271.png"  alt="image" />
                         </div>
                         <div className="dro_142">
                           <h6 >
                             Completed Projects <br/>
-                            <CountUp end={20} duration={10} />
+                            <CountUp 
+                            style={{fontSize:"40px",color:"#00638D"}}
+                            className="ml-5 "
+                           
+                            end={20} duration={10} />
                           </h6>
                          
                         </div>
@@ -37,7 +41,10 @@ export default function CompanyAwards(){
                         <div className="dro_142">
                           <h6>
                             Client Satisfaction<br/>
-                            <CountUp end={100} duration={10} />
+                            <CountUp 
+                            style={{fontSize:"40px",color:"#00638D"}}
+                            className="ml-4 count"
+                            end={100} duration={10} />
                           </h6>
                         </div>
                       </div>
@@ -50,7 +57,10 @@ export default function CompanyAwards(){
                         <div className="dro_142">
                           <h6>
                            Awards<br/>
-                           <CountUp end={5} duration={10} />
+                           <CountUp 
+                           style={{fontSize:"40px",color:"#00638D"}}
+                           className="ml-3 count"
+                           end={5} duration={10} />
                           </h6>
                         </div>
                       </div>
@@ -63,7 +73,10 @@ export default function CompanyAwards(){
                         <div className="dro_142">
                           <h6>
                            Expert Members<br/>
-                           <CountUp end={3} duration={10} />+
+                           <CountUp 
+                           style={{fontSize:"40px",color:"#00638D"}}
+                           className="ml-5 count"
+                           end={3} duration={10} >+</CountUp>
                           </h6>
                         </div>
                       </div>
@@ -76,7 +89,10 @@ export default function CompanyAwards(){
                         <div className="dro_142">
                           <h6>
                            Partnership<br/>
-                           <CountUp end={6} duration={5} />
+                           <CountUp 
+                           style={{fontSize:"40px",color:"#00638D"}}
+                           className="ml-4 "
+                           end={6} duration={5} />
                           </h6>
                         </div>
                       </div>

@@ -4032,6 +4032,7 @@ ul.lt_cr_list li i{
 }
 .dro_140 {
     display: flex;
+    flex-direction: column;
     align-items: center;
     justify-content: flex-start;
     width: 100%;
