@@ -67,7 +67,7 @@ export default function Services_Data(){
       <div className="overview-box">
         <div className="overview-content">
           <div className="content">
-            <span className="sub-title">Digital Marketing</span>
+            <h6 className="sub-title">Digital Marketing</h6>
             <h2>Creative solutions, creative results</h2>
             <p>
               We believe brand interaction is key to communication. Real
@@ -75,20 +75,20 @@ export default function Services_Data(){
               successful communication.
             </p>
             <div className="features-text">
-              <h4>
-                <i className="flaticon-tick" /> Core Development
+              <h6>
+                 <i className="bi bi-check-all" /> Core Development
                 {/* */}
-              </h4>
+              </h6>
               <p>
                 No fake products and services. The customer is king, their lives
                 and needs are the inspiration.
               </p>
             </div>
             <div className="features-text">
-              <h4>
-                <i className="flaticon-tick" /> Define Your Choices
+              <h6 >
+                 <i className="bi bi-check-all" /> Define Your Choices
                 {/* */}
-              </h4>
+              </h6>
               <p>
                 No fake products and services. The customer is king, their lives
                 and needs are the inspiration.
@@ -110,7 +110,7 @@ export default function Services_Data(){
         </div>
         <div className="overview-content">
           <div className="content right-content">
-            <span className="sub-title">Design &amp; Development</span>
+            <h6 className="sub-title">Design &amp; Development</h6>
             <h2>Solving problems, building brands</h2>
             <p>
               We believe brand interaction is key to communication. Real
@@ -161,7 +161,7 @@ export default function Services_Data(){
       <div className="overview-box">
         <div className="overview-content">
           <div className="content">
-            <span className="sub-title">Social Media Marketing</span>
+            <h6 className="sub-title">Social Media Marketing</h6>
             <h2>We are the next generation of the advertising world</h2>
             <p>
               We believe brand interaction is key to communication. Real
@@ -169,20 +169,20 @@ export default function Services_Data(){
               successful communication.
             </p>
             <div className="features-text">
-              <h4>
-                <i className="flaticon-tick" /> Core Development
+              <h6>
+                 <i className="bi bi-check-all" /> Core Development
                 {/* */}
-              </h4>
+              </h6>
               <p>
                 No fake products and services. The customer is king, their lives
                 and needs are the inspiration.
               </p>
             </div>
             <div className="features-text">
-              <h4>
-                <i className="flaticon-tick" /> Define Your Choices
+              <h6>
+                 <i className="bi bi-check-all" /> Define Your Choices
                 {/* */}
-              </h4>
+              </h6>
               <p>
                 No fake products and services. The customer is king, their lives
                 and needs are the inspiration.
@@ -261,7 +261,7 @@ export default function Services_Data(){
   <section className="features-area ptb-100 pt-0 bg-light">
     <div className="container">
       <div className="section-title">
-        <span className="sub-title">Our Features</span>
+        <h6 className="sub-title">Our Features</h6>
         <h2>We always try to understand customers expectation</h2>
       </div>
       <div className="tab features-list-tab">
@@ -269,37 +269,37 @@ export default function Services_Data(){
           <li className="current">
             <div className="bg-fa7070">
               <i className="flaticon-achievement" />
-              <span>User Experience</span>
+              <h6>User Experience</h6>
             </div>
           </li>
           <li>
             <div className="bg-00aeff">
               <i className="flaticon-architecture" />
-              <span>Product Design</span>
+              <h6>Product Design</h6>
             </div>
           </li>
           <li>
             <div className="bg-c679e3">
               <i className="flaticon-digital-marketing" />
-              <span>Digital Marketing</span>
+              <h6>Digital Marketing</h6>
             </div>
           </li>
           <li>
             <div className="bg-eb6b3d">
               <i className="flaticon-analytics" />
-              <span>Branding</span>
+              <h6>Branding</h6>
             </div>
           </li>
           <li>
             <div>
               <i className="flaticon-data" />
-              <span>Development</span>
+              <h6>Development</h6>
             </div>
           </li>
           <li>
             <div className="bg-f78acb">
               <i className="flaticon-research" />
-              <span>Marketing</span>
+              <h6>Marketing</h6>
             </div>
           </li>
         </ul>
@@ -308,7 +308,7 @@ export default function Services_Data(){
             <div className="features-overview">
               <div className="overview-content">
                 <div className="content">
-                  <span className="sub-title">Define Your Choices</span>
+                  <h8 className="sub-title">Define Your Choices</h8>
                   <h2>User Experience</h2>
                   <p>
                     We believe brand interaction is key in communication. Real
@@ -319,40 +319,40 @@ export default function Services_Data(){
                   </p>
                   <ul className="features-list">
                     <li>
-                      <span>
-                        <i className="flaticon-tick" /> Open Source
+                      <h6 className="text-muted">
+                         <i className="bi bi-check-all" /> Open Source
                         {/* */}
-                      </span>
+                      </h6>
                     </li>
                     <li>
-                      <span>
-                        <i className="flaticon-tick" /> Optimal Choice
+                      <h6 className="text-muted">
+                         <i className="bi bi-check-all" /> Optimal Choice
                         {/* */}
-                      </span>
+                      </h6>
                     </li>
                     <li>
-                      <span>
-                        <i className="flaticon-tick" /> High Security
+                      <h6 className="text-muted">
+                         <i className="bi bi-check-all" /> High Security
                         {/* */}
-                      </span>
+                      </h6>
                     </li>
                     <li>
-                      <span>
-                        <i className="flaticon-tick" /> Great Advices
+                      <h6 className="text-muted">
+                         <i className="bi bi-check-all" /> Great Advices
                         {/* */}
-                      </span>
+                      </h6>
                     </li>
                     <li>
-                      <span>
-                        <i className="flaticon-tick" /> Creative Layout
+                      <h6 className="text-muted">
+                         <i className="bi bi-check-all" /> Creative Layout
                         {/* */}
-                      </span>
+                      </h6>
                     </li>
                     <li>
-                      <span>
-                        <i className="flaticon-tick" /> Super Responsive
+                      <h6 className="text-muted">
+                         <i className="bi bi-check-all" /> Super Responsive
                         {/* */}
-                      </span>
+                      </h6>
                     </li>
                   </ul>
                 </div>
@@ -391,37 +391,37 @@ export default function Services_Data(){
                   <ul className="features-list">
                     <li>
                       <span>
-                        <i className="flaticon-tick" /> Open Source
+                         <i className="bi bi-check-all" /> Open Source
                         {/* */}
                       </span>
                     </li>
                     <li>
                       <span>
-                        <i className="flaticon-tick" /> Optimal Choice
+                         <i className="bi bi-check-all" /> Optimal Choice
                         {/* */}
                       </span>
                     </li>
                     <li>
                       <span>
-                        <i className="flaticon-tick" /> High Security
+                         <i className="bi bi-check-all" /> High Security
                         {/* */}
                       </span>
                     </li>
                     <li>
                       <span>
-                        <i className="flaticon-tick" /> Great Advices
+                         <i className="bi bi-check-all" /> Great Advices
                         {/* */}
                       </span>
                     </li>
                     <li>
                       <span>
-                        <i className="flaticon-tick" /> Creative Layout
+                         <i className="bi bi-check-all" /> Creative Layout
                         {/* */}
                       </span>
                     </li>
                     <li>
                       <span>
-                        <i className="flaticon-tick" /> Super Responsive
+                         <i className="bi bi-check-all" /> Super Responsive
                         {/* */}
                       </span>
                     </li>
@@ -446,37 +446,37 @@ export default function Services_Data(){
                   <ul className="features-list">
                     <li>
                       <span>
-                        <i className="flaticon-tick" /> Open Source
+                         <i className="bi bi-check-all" /> Open Source
                         {/* */}
                       </span>
                     </li>
                     <li>
                       <span>
-                        <i className="flaticon-tick" /> Optimal Choice
+                         <i className="bi bi-check-all" /> Optimal Choice
                         {/* */}
                       </span>
                     </li>
                     <li>
                       <span>
-                        <i className="flaticon-tick" /> High Security
+                         <i className="bi bi-check-all" /> High Security
                         {/* */}
                       </span>
                     </li>
                     <li>
                       <span>
-                        <i className="flaticon-tick" /> Great Advices
+                         <i className="bi bi-check-all" /> Great Advices
                         {/* */}
                       </span>
                     </li>
                     <li>
                       <span>
-                        <i className="flaticon-tick" /> Creative Layout
+                         <i className="bi bi-check-all" /> Creative Layout
                         {/* */}
                       </span>
                     </li>
                     <li>
                       <span>
-                        <i className="flaticon-tick" /> Super Responsive
+                         <i className="bi bi-check-all" /> Super Responsive
                         {/* */}
                       </span>
                     </li>
@@ -517,37 +517,37 @@ export default function Services_Data(){
                   <ul className="features-list">
                     <li>
                       <span>
-                        <i className="flaticon-tick" /> Open Source
+                         <i className="bi bi-check-all" /> Open Source
                         {/* */}
                       </span>
                     </li>
                     <li>
                       <span>
-                        <i className="flaticon-tick" /> Optimal Choice
+                         <i className="bi bi-check-all" /> Optimal Choice
                         {/* */}
                       </span>
                     </li>
                     <li>
                       <span>
-                        <i className="flaticon-tick" /> High Security
+                         <i className="bi bi-check-all" /> High Security
                         {/* */}
                       </span>
                     </li>
                     <li>
                       <span>
-                        <i className="flaticon-tick" /> Great Advices
+                         <i className="bi bi-check-all" /> Great Advices
                         {/* */}
                       </span>
                     </li>
                     <li>
                       <span>
-                        <i className="flaticon-tick" /> Creative Layout
+                         <i className="bi bi-check-all" /> Creative Layout
                         {/* */}
                       </span>
                     </li>
                     <li>
                       <span>
-                        <i className="flaticon-tick" /> Super Responsive
+                         <i className="bi bi-check-all" /> Super Responsive
                         {/* */}
                       </span>
                     </li>
@@ -572,37 +572,37 @@ export default function Services_Data(){
                   <ul className="features-list">
                     <li>
                       <span>
-                        <i className="flaticon-tick" /> Open Source
+                         <i className="bi bi-check-all" /> Open Source
                         {/* */}
                       </span>
                     </li>
                     <li>
                       <span>
-                        <i className="flaticon-tick" /> Optimal Choice
+                         <i className="bi bi-check-all" /> Optimal Choice
                         {/* */}
                       </span>
                     </li>
                     <li>
                       <span>
-                        <i className="flaticon-tick" /> High Security
+                         <i className="bi bi-check-all" /> High Security
                         {/* */}
                       </span>
                     </li>
                     <li>
                       <span>
-                        <i className="flaticon-tick" /> Great Advices
+                         <i className="bi bi-check-all" /> Great Advices
                         {/* */}
                       </span>
                     </li>
                     <li>
                       <span>
-                        <i className="flaticon-tick" /> Creative Layout
+                         <i className="bi bi-check-all" /> Creative Layout
                         {/* */}
                       </span>
                     </li>
                     <li>
                       <span>
-                        <i className="flaticon-tick" /> Super Responsive
+                         <i className="bi bi-check-all" /> Super Responsive
                         {/* */}
                       </span>
                     </li>
@@ -643,37 +643,37 @@ export default function Services_Data(){
                   <ul className="features-list">
                     <li>
                       <span>
-                        <i className="flaticon-tick" /> Open Source
+                         <i className="bi bi-check-all" /> Open Source
                         {/* */}
                       </span>
                     </li>
                     <li>
                       <span>
-                        <i className="flaticon-tick" /> Optimal Choice
+                         <i className="bi bi-check-all" /> Optimal Choice
                         {/* */}
                       </span>
                     </li>
                     <li>
                       <span>
-                        <i className="flaticon-tick" /> High Security
+                         <i className="bi bi-check-all" /> High Security
                         {/* */}
                       </span>
                     </li>
                     <li>
                       <span>
-                        <i className="flaticon-tick" /> Great Advices
+                         <i className="bi bi-check-all" /> Great Advices
                         {/* */}
                       </span>
                     </li>
                     <li>
                       <span>
-                        <i className="flaticon-tick" /> Creative Layout
+                         <i className="bi bi-check-all" /> Creative Layout
                         {/* */}
                       </span>
                     </li>
                     <li>
                       <span>
-                        <i className="flaticon-tick" /> Super Responsive
+                         <i className="bi bi-check-all" /> Super Responsive
                         {/* */}
                       </span>
                     </li>
